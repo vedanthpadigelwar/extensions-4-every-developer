@@ -18,7 +18,19 @@ To contribute, follow the [contributing guidelines]()
 - Pull request code review
 - Change sidebar docking position
 
-#### Availiabilty
+#### <em>Availiabilty</em>
 <em>Octotree is available for download on [chrome](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) and [mozilla](https://addons.mozilla.org/en-US/firefox/addon/octotree/)
+  
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/octotree-extension.png)
+
+2. Check My Links Extension : This extension is a link checker that crawls through your webpage and looks for all things, links. Broken links, valid links, redirecting links, we got you covered.
+#### <em>Features</em>
+- Tab showing number of links present on a webpage or website
+- Queue with number of links left to account for as the crawler works
+- Syntax highlighting for valid, redirect, warnings and invalid links
+
+#### <em>Availability</em>
+<em>Octotree is available for download on [chrome](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en) 
+  
+  ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/check-my-links-extension.png)
