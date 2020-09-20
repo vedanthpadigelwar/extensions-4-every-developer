@@ -24,7 +24,8 @@ To contribute, follow the [contributing guidelines]()
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/octotree-extension.png)
 
-2. Check My Links Extension : This extension is a link checker that crawls through your webpage and looks for all things, links. Broken links, valid links, redirecting links, we got you covered.
+2. Check My Links Extension : This extension is a link checker that crawls through your webpage and looks for all things, links.
+Broken links, valid links, redirecting links, we got you covered.
 
 #### <em>Features</em>
 
@@ -36,3 +37,17 @@ To contribute, follow the [contributing guidelines]()
 Octotree is available for download on [chrome](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en) 
   
  ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/check-my-links-extension.png)
+3. Windows Resizer : This extension re-sizes the browser's window in order to emulate various resolutions.
+
+#### <em>Features</em>
+
+- Major device resolution on which to test your website
+- Customizable list. Add/remove/reorder available resolution list
+- Allow you set the window's width/height, window's position.
+- Customizable  global key shortcuts
+- Export desired settings and import them into another computer
+
+#### <em>Availability</em>
+Windows resizer is available for download on [chrome](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
+
+ ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/windows-resizer-extension.png)
