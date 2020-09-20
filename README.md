@@ -37,6 +37,7 @@ Broken links, valid links, redirecting links, we got you covered.
 Octotree is available for download on [chrome](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en) 
   
  ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/check-my-links-extension.png)
+ 
 3. Windows Resizer : This extension re-sizes the browser's window in order to emulate various resolutions.
 
 #### <em>Features</em>
@@ -51,3 +52,17 @@ Octotree is available for download on [chrome](https://chrome.google.com/webstor
 Windows resizer is available for download on [chrome](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
 
  ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/windows-resizer-extension.png)
+ 
+ 4. Color By Fardos: This extension allows you pick colors from websites, save colors & gradients, get matching shades and tints and create beautiful gradients.
+ 
+ #### <em>Features</em>
+ -  Color pick and save multiple colors from any site (using zoom technology) Cmd/Ctrl + Shift + e
+ - Save your favorite colors and gradients, click any color and it's HEX is saved to your clipboard
+ - Find shades, tints, complementary and other color combinations for any color
+ - Sync your colors between multiple Chrome Browsers
+ - Create linear or radial gradients with unlimited stops
+ - Browse hundreds of beautiful gradients, edit, save and copy it's CSS whenever you need it
+ 
+ #### <em>Availability</em>
+ Color By Fardos is available for download on [chrome](https://chrome.google.com/webstore/detail/color-by-fardos-color-pic/iibpgpkhpfggipbacjfeijkloidhmiei)
+ ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/colorbyfardos-extension.png)
