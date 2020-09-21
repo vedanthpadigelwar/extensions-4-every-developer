@@ -65,4 +65,15 @@ Windows resizer is available for download on [chrome](https://chrome.google.com/
  
  #### <em>Availability</em>
  Color By Fardos is available for download on [chrome](https://chrome.google.com/webstore/detail/color-by-fardos-color-pic/iibpgpkhpfggipbacjfeijkloidhmiei)
+ 
  ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/colorbyfardos-extension.png)
+
+5. Css Viewer : This extension is a simple Css property viewer. Hover over any element and get all the css properties attached to it
+
+#### <em>Features</em>
+- Hover over any html element and get all the css properties attached to it. 
+
+#### <em>Availability</em>
+Css  viewer is an available for download on [chrome](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en)
+
+![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/css-viewer-extension.png)
