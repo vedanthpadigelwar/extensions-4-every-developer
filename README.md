@@ -90,3 +90,15 @@ Css  viewer is an available for download on [chrome](https://chrome.google.com/w
 Pesticide is available for download on [chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/eipbgplchlidkojmppclhkechkhmlefi?hl=en) and [firefox](https://addons.mozilla.org/en-US/firefox/addon/pesticide-for-firefox/)
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/pesticide-extension.png)
+
+7. Wappalyzer : This extension is a technology profiler that shows you what websites and web applications ae built with. 
+
+#### <em>Features</em>
+- Allows you find what content management system a website uses
+- Uncovers website tech nology into a range of categories like programming languages, analytics, marketing tools and many more...
+- Tells the javascript frameworks, e-commerce platform that the given website or web application uses.
+
+#### <em>Availability</em>
+wappalyzer is available for download on [chrome](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) and [firefox](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
+
+![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/wappalyzer-extension.png)
