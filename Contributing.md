@@ -1,5 +1,6 @@
 ### Akwaaba! 
 Thanks for wanting to contribute. 
+Please leave a star.
 
 To contribute, follow the following guidelines, 
 
