@@ -106,7 +106,7 @@ Wappalyzer is available for download on [chrome](https://chrome.google.com/webst
 8. Screencastify : This extension helps to capture, edit and share videos in seconds. 
 
 #### <em>Features</em>
-1. 🎤 Record 
+1. 🎥 Record 
 - Desktop, browser tab or webcam capture
 - Narrate with your microphone’s audio
 - Embed your webcam into the recording
@@ -130,3 +130,16 @@ Wappalyzer is available for download on [chrome](https://chrome.google.com/webst
 Screencastify is available for download on [chrome](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn?hl=en) 
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/screencastify-extension.png)
+
+9. Web Developer Checklist : This extension helps developers by providing a yardstick to test if they have followed best practices
+
+#### <em>Features</em>
+- Analyses any web page for violations of best practices
+- Easily discover problem areas in websites.
+- Get grading on different areas where best practices should be observed like SEO, Mobile responsiveness, Usability, Accessibility
+- Get the number of successful checks that passed the best practices test
+#### <em>Availability</em>
+
+Web Developer checklist is available for download on [chrome](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en) and [firefox](https://addons.mozilla.org/en-US/firefox/addon/webdeveloperchecklist/)
+
+![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/webdeveloper-checklist-extension.png)
