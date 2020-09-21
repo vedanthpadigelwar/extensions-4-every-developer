@@ -167,3 +167,26 @@ Web Developer checklist is available for download on [chrome](https://chrome.goo
 Web developer is available for download on [chrome](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) and [firefox](https://addons.mozilla.org/en-US/firefox/addon/web-developer/)
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/web-developer-extension-2.png) 
+
+
+
+12.Microsoft Teams Bot : It's a bot which can attend your online classes/meetings on Microsoft Teams.
+
+#### <em>Features</em>
+- Attends your online classes/meetings
+- User customisable timetable.
+- User just needs to input the Team name, meeting start time and the duration of the meeting
+- Joins the meeting provided that there is more than 1 attendee in the meeting
+- Fully autonomous. Can add any number of meetings.
+- Totally free to use
+- 100% attendance for all your classes/meetings
+
+<em>Advanced Features</em>
+- If Deployed on an AWS/Azure Server, you don't need to switch on your desktop/laptop
+- Zero MB of data consumption
+- [Tutorial to deploy it on a server](https://youtu.be/93ik0MV-FAI)
+
+### <em>Availability</em>
+Microsoft Teams Bot is available for download on [chrome](https://chrome.google.com/webstore/detail/n-bot-microsoft-teams-onl/onbankppjhoeccfkpnhogojjllbefglb)
+
+![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/microsoft-teams-bot.png) 
