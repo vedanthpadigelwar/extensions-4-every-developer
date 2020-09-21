@@ -152,7 +152,19 @@ Web Developer checklist is available for download on [chrome](https://chrome.goo
 - Get some more properties of the text like the size, line height, color along with a small square showing a preview of the color used for the text
 - Allows you exit what font as the font checker keeps appearing as you move over the webpage
 
-####<em>Availability</em>
+#### <em>Availability</em>
 - What font is available for download on [chrome](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)and [mpzilla](https://addons.mozilla.org/en-US/firefox/addon/zjm-whatfont/)
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/whatfont-extension.png)
+
+11. Web Developer : What a weird name for an extension. What it does is far from weird, though. This extension adds a toolbar button to the browser with various web developer tools.
+
+#### <em>Features</em>
+- Tons of web developer tools that can be toggled to add or remove from the current page
+- When a given tool has been toggled on, an X icon is attached to the tool showing that it can be toggled off when clicked
+- Web developer tools effectively categorized into forms, css, images, resizer and much more. 
+
+### <em>Availability</em>
+Web developer is available for download on [chrome](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) and [firefox](https://addons.mozilla.org/en-US/firefox/addon/web-developer/)
+
+![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/web-developer-extension-2.png) 
