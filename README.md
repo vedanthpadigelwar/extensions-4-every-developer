@@ -3,7 +3,9 @@ A list of extensions that every web developer must have
 
 ### Here is a list of extensions that every web developer should use
 To contribute, follow the [contributing guidelines]()
-1. OctoTree Extension : This extension puts github on steriods. Gone are the days of ugly looking github repositories.
+
+1. OctoTree : This extension puts github on steriods. Gone are the days of ugly looking github repositories.
+
 #### <em>Features</em>
 - IDE-like code tree
 - Customize how Github looks to you. Opt for the dark theme and customize the font of your text and much more...
@@ -19,16 +21,14 @@ To contribute, follow the [contributing guidelines]()
 - Change sidebar docking position
 
 #### <em>Availiabilty</em>
-<em>Octotree is available for download on [chrome](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) and [mozilla](https://addons.mozilla.org/en-US/firefox/addon/octotree/)
+Octotree is available for download on [chrome](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) and [mozilla](https://addons.mozilla.org/en-US/firefox/addon/octotree/)
   
-
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/octotree-extension.png)
 
 2. Check My Links Extension : This extension is a link checker that crawls through your webpage and looks for all things, links.
 Broken links, valid links, redirecting links, we got you covered.
 
 #### <em>Features</em>
-
 - Tab showing number of links present on a webpage or website
 - Queue with number of links left to account for as the crawler works
 - Syntax highlighting for valid, redirect, warnings and invalid links
@@ -36,12 +36,11 @@ Broken links, valid links, redirecting links, we got you covered.
 #### <em>Availability</em>
 Octotree is available for download on [chrome](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en) 
   
- ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/check-my-links-extension.png)
- 
+![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/check-my-links-extension.png)
+
 3. Windows Resizer : This extension re-sizes the browser's window in order to emulate various resolutions.
 
 #### <em>Features</em>
-
 - Major device resolution on which to test your website
 - Customizable list. Add/remove/reorder available resolution list
 - Allow you set the window's width/height, window's position.
@@ -51,35 +50,34 @@ Octotree is available for download on [chrome](https://chrome.google.com/webstor
 #### <em>Availability</em>
 Windows resizer is available for download on [chrome](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
 
- ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/windows-resizer-extension.png)
+![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/windows-resizer-extension.png)
  
- 4. Color By Fardos: This extension allows you pick colors from websites, save colors & gradients, get matching shades and tints and create beautiful gradients.
+4.Color By Fardos: This extension allows you pick colors from websites, save colors & gradients, get matching shades and tints and create beautiful gradients.
  
- #### <em>Features</em>
- -  Color pick and save multiple colors from any site (using zoom technology) Cmd/Ctrl + Shift + e
- - Save your favorite colors and gradients, click any color and it's HEX is saved to your clipboard
- - Find shades, tints, complementary and other color combinations for any color
- - Sync your colors between multiple Chrome Browsers
- - Create linear or radial gradients with unlimited stops
- - Browse hundreds of beautiful gradients, edit, save and copy it's CSS whenever you need it
+#### <em>Features</em>
+- Color pick and save multiple colors from any site (using zoom technology) Cmd/Ctrl + Shift + e
+- Save your favorite colors and gradients, click any color and it's HEX is saved to your clipboard
+- Find shades, tints, complementary and other color combinations for any color
+- Sync your colors between multiple Chrome Browsers
+- Create linear or radial gradients with unlimited stops
+- Browse hundreds of beautiful gradients, edit, save and copy it's CSS whenever you need it
  
- #### <em>Availability</em>
- Color By Fardos is available for download on [chrome](https://chrome.google.com/webstore/detail/color-by-fardos-color-pic/iibpgpkhpfggipbacjfeijkloidhmiei)
+#### <em>Availability</em>
+Color By Fardos is available for download on [chrome](https://chrome.google.com/webstore/detail/color-by-fardos-color-pic/iibpgpkhpfggipbacjfeijkloidhmiei)
  
- ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/colorbyfardos-extension.png)
+![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/colorbyfardos-extension.png)
 
-5. Css Viewer : This extension is a simple Css property viewer. Hover over any element and get all the css properties attached to it
+5.Css Viewer : This extension is a simple Css property viewer. Hover over any element and get all the css properties attached to it
 
 #### <em>Features</em>
 - Hover over any html element and get all the css properties attached to it. 
 
 #### <em>Availability</em>
-
 Css  viewer is an available for download on [chrome](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en)
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/css-viewer-extension.png)
 
-6. Pesticide : This extension outlines every element on a page thereby allowing the user see a better placement on the page.
+6.Pesticide : This extension outlines every element on a page thereby allowing the user see a better placement on the page.
 
 #### <em>Features</em>
 - Every element is outlined, like a box
@@ -103,7 +101,7 @@ Wappalyzer is available for download on [chrome](https://chrome.google.com/webst
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/wappalyzer-extension.png)
 
-8. Screencastify : This extension helps to capture, edit and share videos in seconds. 
+8.Screencastify : This extension helps to capture, edit and share videos in seconds. 
 
 #### <em>Features</em>
 1. 🎥 Record 
@@ -126,25 +124,24 @@ Wappalyzer is available for download on [chrome](https://chrome.google.com/webst
 - Export as MP4, animated GIF, or MP3
 
 #### <em>Availability</em>
-
 Screencastify is available for download on [chrome](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn?hl=en) 
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/screencastify-extension.png)
 
-9. Web Developer Checklist : This extension helps developers by providing a yardstick to test if they have followed best practices
+9.Web Developer Checklist : This extension helps developers by providing a yardstick to test if they have followed best practices
 
 #### <em>Features</em>
 - Analyses any web page for violations of best practices
 - Easily discover problem areas in websites.
 - Get grading on different areas where best practices should be observed like SEO, Mobile responsiveness, Usability, Accessibility
 - Get the number of successful checks that passed the best practices test
-#### <em>Availability</em>
 
+#### <em>Availability</em>
 Web Developer checklist is available for download on [chrome](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en) and [firefox](https://addons.mozilla.org/en-US/firefox/addon/webdeveloperchecklist/)
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/webdeveloper-checklist-extension.png)
 
-10. What font : This extension makes it ridiculously easy to identify fonts used in a website.
+10.What font : This extension makes it ridiculously easy to identify fonts used in a website.
 
 #### <em>Features</em>
 - Hover over any text in a website and automatically get the fonts used
@@ -157,7 +154,7 @@ Web Developer checklist is available for download on [chrome](https://chrome.goo
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/whatfont-extension.png)
 
-11. Web Developer : What a weird name for an extension. What it does is far from weird, though. This extension adds a toolbar button to the browser with various web developer tools.
+11.Web Developer : What a weird name for an extension. What it does is far from weird, though. This extension adds a toolbar button to the browser with various web developer tools.
 
 #### <em>Features</em>
 - Tons of web developer tools that can be toggled to add or remove from the current page
