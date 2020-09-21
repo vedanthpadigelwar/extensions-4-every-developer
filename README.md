@@ -99,6 +99,34 @@ Pesticide is available for download on [chrome](https://chrome.google.com/websto
 - Tells the javascript frameworks, e-commerce platform that the given website or web application uses.
 
 #### <em>Availability</em>
-wappalyzer is available for download on [chrome](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) and [firefox](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
+Wappalyzer is available for download on [chrome](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) and [firefox](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/wappalyzer-extension.png)
+
+8. Screencastify : This extension helps to capture, edit and share videos in seconds. 
+
+#### <em>Features</em>
+1. 🎤 Record 
+- Desktop, browser tab or webcam capture
+- Narrate with your microphone’s audio
+- Embed your webcam into the recording
+- Full HD resolution
+
+2. ✂️ Edit
+- Trim the start and end of your videos
+- Draw on your tab with the pen tool
+- Merge, crop, and add text to videos (upgrade required)
+
+3.  🚀 Share
+- Videos autosave to Google Drive
+- Copy shareable Drive link with one click
+- Publish directly to your YouTube channel
+- Share to Google Classroom
+- Save and manage videos locally
+- Export as MP4, animated GIF, or MP3
+
+#### <em>Availability</em>
+
+Screencastify is available for download on [chrome](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn?hl=en) 
+
+![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/screencastify-extension.png)
