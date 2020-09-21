@@ -143,3 +143,16 @@ Screencastify is available for download on [chrome](https://chrome.google.com/we
 Web Developer checklist is available for download on [chrome](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en) and [firefox](https://addons.mozilla.org/en-US/firefox/addon/webdeveloperchecklist/)
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/webdeveloper-checklist-extension.png)
+
+10. What font : This extension makes it ridiculously easy to identify fonts used in a website.
+
+#### <em>Features</em>
+- Hover over any text in a website and automatically get the fonts used
+- Get access to the font family, font style, font-weight
+- Get some more properties of the text like the size, line height, color along with a small square showing a preview of the color used for the text
+- Allows you exit what font as the font checker keeps appearing as you move over the webpage
+
+####<em>Availability</em>
+- What font is available for download on [chrome](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)and [mpzilla](https://addons.mozilla.org/en-US/firefox/addon/zjm-whatfont/)
+
+![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/whatfont-extension.png)
