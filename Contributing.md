@@ -24,3 +24,5 @@ original repo.
 17. I check that all the guidelines are followed and your PR gets merged
 
 #### Thanks ! You've added one more helpful extension to the repo
+
+Do you have more ideas on how to make the project even better, send me a <a target= "_blank" href="mailto:thedevkaren@gmail.com">message</a>
