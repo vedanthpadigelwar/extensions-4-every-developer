@@ -74,6 +74,19 @@ Windows resizer is available for download on [chrome](https://chrome.google.com/
 - Hover over any html element and get all the css properties attached to it. 
 
 #### <em>Availability</em>
+
 Css  viewer is an available for download on [chrome](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en)
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/css-viewer-extension.png)
+
+6. Pesticide : This extension outlines every element on a page thereby allowing the user see a better placement on the page.
+
+#### <em>Features</em>
+- Every element is outlined, like a box
+- It is an absolute easy way to visualize box-sizing in CSS
+- Hover over any box and immediately see the paddings, margins and border widths attached to that element via the box-sizing pane in the elements tab 
+
+#### <em>Availability</em>
+Pesticide is available for download on [chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/eipbgplchlidkojmppclhkechkhmlefi?hl=en) and [firefox](https://addons.mozilla.org/en-US/firefox/addon/pesticide-for-firefox/)
+
+![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/pesticide-extension.png)
