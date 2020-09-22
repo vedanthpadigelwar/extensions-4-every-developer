@@ -189,4 +189,35 @@ Web developer is available for download on [chrome](https://chrome.google.com/we
 ### <em>Availability</em>
 Microsoft Teams Bot is available for download on [chrome](https://chrome.google.com/webstore/detail/n-bot-microsoft-teams-onl/onbankppjhoeccfkpnhogojjllbefglb)
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/microsoft-teams-bot.png) 
+![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/microsoft-teams-bot.png)
+
+
+
+13. Web Maker: Blazing fast & offline playground for your web experiments.
+
+#### <em>Features</em>
+- Works offline
+- User accounts
+- Supports pre-processors: HTML (jade, markdown), CSS (SCSS, LESS, Atomic CSS, Stylus) & JavaScript (ES6, CoffeeScript, TypeScript)
+- Inbuilt Console
+- Save and load your creations with Auto-save
+- Fork any creation
+- Various templates for popular libraries - React, Vue and more
+- Multi-monitor support with detached preview
+- Import & Export all creations anytime, anywhere
+- Multiple editor themes & other configurable settings
+- Font options + use any system font
+- Code auto completion
+- Very easily accessible. Simply open a new tab in Chrome! (Configurable setting).
+- Multiple layouts with saved collapsed states
+- Save as HTML file
+- Edit in CodePen
+- Preview screenshot capture
+- Open source on GitHub
+
+### <em>Availability</em>
+Web Maker is available for download on [chrome](https://chrome.google.com/webstore/detail/web-maker/lkfkkhfhhdkiemehlpkgjeojomhpccnh)
+
+![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/microsoft-teams-bot.png)
+
+
