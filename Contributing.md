@@ -17,7 +17,7 @@ To contribute, follow the following guidelines,
 10. ```git status``` to check the new changes
 11. ```git add 'ReadMe.md' ``` which is the file that was updated
 12.``` git pull origin master``` to get all the new updates from the main repo. This ensures there are no merge conflicts
-13. ```git commit -m "add name of extension" ```. 
+13. ```git commit -s -m "add name of extension" ```. The -s is the sign off flag and is extremely important. Please take note of it
 14. ```git push origin name-of-your-branch``` 
 15. Refresh your forked copy of the repo and you should automatically see your changes reflected
 16. Open a pull request. Here is how your comparison should be. Compare from the new branch of your forked copy of the repo with the master branch of the 
