@@ -218,6 +218,6 @@ Microsoft Teams Bot is available for download on [chrome](https://chrome.google.
 ### <em>Availability</em>
 Web Maker is available for download on [chrome](https://chrome.google.com/webstore/detail/web-maker/lkfkkhfhhdkiemehlpkgjeojomhpccnh)
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/microsoft-teams-bot.png)
+![Here is how the extension looks](https://github.com/HikwaMehluli/extensions-4-every-developer/blob/add-webmaker-hikwamehluli/web-maker-extension.png)
 
 
