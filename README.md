@@ -234,3 +234,5 @@ Microsoft Teams Bot is available for download on [chrome](https://chrome.google.
 uBlock Origin is available for download on [chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=chrome-ntp-icon)
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/ublock-origin.png)
+
+
