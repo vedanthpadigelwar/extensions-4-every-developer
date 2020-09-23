@@ -263,3 +263,17 @@ Web Maker is available for download on [chrome](https://chrome.google.com/websto
 uBlock Origin is available for download on [chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=chrome-ntp-icon)
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/ublock-origin.png)
+
+14.Lighthouse : It is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. it runs a series of audits against the page, and then it generates a report on how well the page did. 
+
+#### <em>Features</em>
+- It has audits for performance, accessibility, progressive web apps, SEO and more.
+
+### <em>Availability</em>
+Choose the Lighthouse workflow that suits you best:
+- In **[Chrome DevTools](https://developers.google.com/web/tools/lighthouse#devtools)** - Easily audit pages that require authentication, and read your reports in a user-friendly format.
+- From the **[command line](https://developers.google.com/web/tools/lighthouse#cli)** - Automate your Lighthouse runs via shell scripts.
+- As a **[Node module](https://developers.google.com/web/tools/lighthouse#programmatic)** - Integrate Lighthouse into your continuous integration systems.
+- From a **[web UI](https://developers.google.com/web/tools/lighthouse#psi)** - Run Lighthouse and link to reports without installing a thing.
+
+![Here is how the extension looks using chrome devtools](https://res.cloudinary.com/dsderm9xw/image/upload/v1600736555/Screenshot_2020-09-22_Lighthouse_Report_Viewer_mgxvrl.png)
