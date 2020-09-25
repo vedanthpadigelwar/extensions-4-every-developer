@@ -264,7 +264,7 @@ uBlock Origin is available for download on [chrome](https://chrome.google.com/we
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/ublock-origin.png)
 
-14.Lighthouse : It is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. it runs a series of audits against the page, and then it generates a report on how well the page did. 
+14.Lighthouse : It is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. it runs a series of audits against the page, and then it generates a report on how well the page did.
 
 #### <em>Features</em>
 - It has audits for performance, accessibility, progressive web apps, SEO and more.
@@ -277,3 +277,29 @@ Choose the Lighthouse workflow that suits you best:
 - From a **[web UI](https://developers.google.com/web/tools/lighthouse#psi)** - Run Lighthouse and link to reports without installing a thing.
 
 ![Here is how the extension looks using chrome devtools](https://res.cloudinary.com/dsderm9xw/image/upload/v1600736555/Screenshot_2020-09-22_Lighthouse_Report_Viewer_mgxvrl.png)
+
+
+=======
+13. Polypane: A standalone browser with all the tools you need to build responsive, accessible and performant sites five times faster.
+
+### <em>Features</em>
+
+- Multiple synced viewports for responsive testing.
+- Detects CSS breakpoints and creates viewports from that.
+- Device emulation for iPhone, Android etc.
+- Media feature emulation: dark mode, reduced motion, print etc.
+- Layout debugging (Every element is outlined, like a box) with overflow detection
+- Devtools that edits all viewports at the same time.
+- Copy all CSS for an element
+- Pixel perfect social media previews for Twitter, Facebook, Slack, Google SERP, LinkedIn and Discord
+- Built-in live reloading and auto reloading support
+- Create full page screenshots
+- Color blindness and other visual impairment simulators
+- Devtools extension support
+- Visual Design overlay diffing support
+
+### <em>Availability</em>
+
+Polypane is available on Mac, Windows and Linux and is available here: [polypane.app](https://polypane.app)
+
+![Here is how the browser looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/polypane.png)
