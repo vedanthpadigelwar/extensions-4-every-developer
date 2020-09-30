@@ -62,7 +62,7 @@ Windows resizer is available for download on [chrome](https://chrome.google.com/
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/windows-resizer-extension.png)
 
-4.Color By Fardos: This extension allows you pick colors from websites, save colors & gradients, get matching shades and tints and create beautiful gradients.
+4. Color By Fardos: This extension allows you pick colors from websites, save colors & gradients, get matching shades and tints and create beautiful gradients.
 
 #### <em>Features</em>
 
@@ -79,7 +79,7 @@ Color By Fardos is available for download on [chrome](https://chrome.google.com/
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/colorbyfardos-extension.png)
 
-5.Css Viewer : This extension is a simple Css property viewer. Hover over any element and get all the css properties attached to it
+5. Css Viewer : This extension is a simple Css property viewer. Hover over any element and get all the css properties attached to it
 
 #### <em>Features</em>
 
@@ -91,7 +91,7 @@ Css viewer is an available for download on [chrome](https://chrome.google.com/we
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/css-viewer-extension.png)
 
-6.Pesticide : This extension outlines every element on a page thereby allowing the user see a better placement on the page.
+6. Pesticide : This extension outlines every element on a page thereby allowing the user see a better placement on the page.
 
 #### <em>Features</em>
 
@@ -119,7 +119,7 @@ Wappalyzer is available for download on [chrome](https://chrome.google.com/webst
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/wappalyzer-extension.png)
 
-8.Screencastify : This extension helps to capture, edit and share videos in seconds.
+8. Screencastify : This extension helps to capture, edit and share videos in seconds.
 
 #### <em>Features</em>
 
@@ -151,7 +151,7 @@ Screencastify is available for download on [chrome](https://chrome.google.com/we
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/screencastify-extension.png)
 
-9.Web Developer Checklist : This extension helps developers by providing a yardstick to test if they have followed best practices
+9. Web Developer Checklist : This extension helps developers by providing a yardstick to test if they have followed best practices
 
 #### <em>Features</em>
 
@@ -166,7 +166,7 @@ Web Developer checklist is available for download on [chrome](https://chrome.goo
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/webdeveloper-checklist-extension.png)
 
-10.What font : This extension makes it ridiculously easy to identify fonts used in a website.
+10. What font : This extension makes it ridiculously easy to identify fonts used in a website.
 
 #### <em>Features</em>
 
@@ -181,7 +181,7 @@ Web Developer checklist is available for download on [chrome](https://chrome.goo
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/whatfont-extension.png)
 
-11.Web Developer : What a weird name for an extension. What it does is far from weird, though. This extension adds a toolbar button to the browser with various web developer tools.
+11. Web Developer : What a weird name for an extension. What it does is far from weird, though. This extension adds a toolbar button to the browser with various web developer tools.
 
 #### <em>Features</em>
 
@@ -195,7 +195,7 @@ Web developer is available for download on [chrome](https://chrome.google.com/we
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/web-developer-extension-2.png)
 
-12.Microsoft Teams Bot : It's a bot which can attend your online classes/meetings on Microsoft Teams.
+12. Microsoft Teams Bot : It's a bot which can attend your online classes/meetings on Microsoft Teams.
 
 #### <em>Features</em>
 
@@ -218,8 +218,6 @@ Web developer is available for download on [chrome](https://chrome.google.com/we
 Microsoft Teams Bot is available for download on [chrome](https://chrome.google.com/webstore/detail/n-bot-microsoft-teams-onl/onbankppjhoeccfkpnhogojjllbefglb)
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/microsoft-teams-bot.png)
-
-
 
 13. Web Maker: Blazing fast & offline playground for your web experiments.
 
@@ -248,7 +246,8 @@ Web Maker is available for download on [chrome](https://chrome.google.com/websto
 
 ![Here is how the extension looks](https://github.com/HikwaMehluli/extensions-4-every-developer/blob/add-webmaker-hikwamehluli/web-maker-extension.png)
 =======
-13.uBlock Origin : an efficient blocker. Easy on CPU and memory.
+
+14. uBlock Origin : an efficient blocker. Easy on CPU and memory.
 
 ### <em>Features</em>
 
@@ -264,7 +263,7 @@ uBlock Origin is available for download on [chrome](https://chrome.google.com/we
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/ublock-origin.png)
 
-14.Lighthouse : It is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. it runs a series of audits against the page, and then it generates a report on how well the page did.
+15. Lighthouse : It is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. it runs a series of audits against the page, and then it generates a report on how well the page did.
 
 #### <em>Features</em>
 - It has audits for performance, accessibility, progressive web apps, SEO and more.
@@ -277,10 +276,9 @@ Choose the Lighthouse workflow that suits you best:
 - From a **[web UI](https://developers.google.com/web/tools/lighthouse#psi)** - Run Lighthouse and link to reports without installing a thing.
 
 ![Here is how the extension looks using chrome devtools](https://res.cloudinary.com/dsderm9xw/image/upload/v1600736555/Screenshot_2020-09-22_Lighthouse_Report_Viewer_mgxvrl.png)
-
-
 =======
-13. Polypane: A standalone browser with all the tools you need to build responsive, accessible and performant sites five times faster.
+
+16. Polypane: A standalone browser with all the tools you need to build responsive, accessible and performant sites five times faster.
 
 ### <em>Features</em>
 
@@ -304,7 +302,7 @@ Polypane is available on Mac, Windows and Linux and is available here: [polypane
 
 ![Here is how it looks like in the browser](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/polypane.png)
 
-14.Dark Theme For Chrome: Dark Mode is an extension that helps you quickly turn the screen (browser) to dark at night time.
+17. Dark Theme For Chrome: Dark Mode is an extension that helps you quickly turn the screen (browser) to dark at night time.
 
 ### <em>Features</em>
 - The Toolbar button serves as an ON|OFF switch which enables you to easily and quickly turn the extension ON or OFF.
