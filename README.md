@@ -310,17 +310,8 @@ Polypane is available on Mac, Windows and Linux and is available here: [polypane
 - Toolbar button serves as an ON|OFF switch which enables you to easily and quickly turn the extension ON or OFF.
 
 ### <em>Availability</em>
+
 Dark Theme is available for downloads on [Windows](https://chrome.google.com/webstore/detail/dark-mode/dmghijelimhndkbmpgbldicpogfkceaj?hl=en
 )
 
 ![Here is how it looks in the browser](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/dark-theme.png)
-
-
-
-
-
-
-
-
-
-
