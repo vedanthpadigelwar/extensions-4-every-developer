@@ -268,7 +268,7 @@ Web Maker is available for download on [chrome](https://chrome.google.com/websto
 
 ![Here is how the extension looks](/images/web-maker-extension.png)
 
-### v14. uBlock Origin: 
+### 14. uBlock Origin: 
 an efficient blocker. Easy on CPU and memory.
 
 #### <em>Features</em>
