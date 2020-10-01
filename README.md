@@ -330,4 +330,4 @@ Dark Theme is available for downloads on [windows](https://chrome.google.com/web
 
 Prodeus is available for download on [chrome](https://chrome.google.com/webstore/detail/prodeus/aglakbhkijgpmoploegcpnbnedgiampn)
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/prodeus-extention.png)
+![Here is how the extension looks](images/prodeus-extention.png)
