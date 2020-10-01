@@ -412,15 +412,15 @@ The name explains the extension. It is automatically executed if a request to a 
     This is a chrome extension that allows developers to manage all open tabs in one place. It help users to easily restore open tabs whenever the chrome browser crashes.
     
 #### <em>Features</em>
-    - Save open tabs as collections that can be easily restored later which helps to free up memory
+- Save open tabs as collections that can be easily restored later which helps to free up memory
     
-    - See and manage all open tabs in one place.
+- See and manage all open tabs in one place.
     
-    - Recover your open tabs after a crash.
+- Recover your open tabs after a crash.
     
-    - Search open tabs and collections to quickly find what you're looking for.
+- Search open tabs and collections to quickly find what you're looking for.
     
 #### <em>Availability</em>
-    Session Buddy is available for download on [chrome](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
+- Session Buddy is available for download on [chrome](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
     
 ![Here is how the extension looks](/images/session-buddy.png)
