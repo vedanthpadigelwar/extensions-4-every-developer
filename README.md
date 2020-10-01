@@ -255,18 +255,10 @@ Blazing fast & offline playground for your web experiments.
 - Preview screenshot capture
 - Open source on GitHub
 
-
 ### <em>Availability</em>
-
 Web Maker is available for download on [chrome](https://chrome.google.com/webstore/detail/web-maker/lkfkkhfhhdkiemehlpkgjeojomhpccnh)
 
 # ![Here is how the extension looks](https://github.com/HikwaMehluli/extensions-4-every-developer/blob/add-webmaker-hikwamehluli/web-maker-extension.png)
-
-#### <em>Availability</em>
-
-Web Maker is available for download on [chrome](https://chrome.google.com/webstore/detail/web-maker/lkfkkhfhhdkiemehlpkgjeojomhpccnh)
-
-![Here is how the extension looks](/images/web-maker-extension.png)
 
 ### 14. uBlock Origin: 
 an efficient blocker. Easy on CPU and memory.
@@ -409,24 +401,24 @@ The name explains the extension. It is automatically executed if a request to a 
 ![Here is how the extension looks](images/json-viewer.png)
 
 ### 22. Session Buddy - Tab Management Extension
-    This is a chrome extension that allows developers to manage all open tabs in one place. It help users to easily restore open tabs whenever the chrome browser crashes.
+- This is a chrome extension that allows developers to manage all open tabs in one place. It help users to easily restore open tabs whenever the chrome browser crashes.
     
 #### <em>Features</em>
-    - Save open tabs as collections that can be easily restored later which helps to free up memory
+- Save open tabs as collections that can be easily restored later which helps to free up memory
     
-    - See and manage all open tabs in one place.
+- See and manage all open tabs in one place.
     
-    - Recover your open tabs after a crash.
+- Recover your open tabs after a crash.
     
-    - Search open tabs and collections to quickly find what you're looking for.
+- Search open tabs and collections to quickly find what you're looking for.
     
 #### <em>Availability</em>
-    Session Buddy can be added to your chrome by just clicking on this link [chrome](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
+- Session Buddy is available for download on [chrome](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
     
-![This is how it looks after adding the extension to your browser](/images/session-buddy.png)
+![Here is how the extension looks](/images/session-buddy.png)
 
 ### 23. Pixel Perfect - Pixel Perfect Accuracy Extension
-    This is a chrome extension that helps develop accurate pixel perfect websites. It allows developers and designers to put a semi-transparent image over the top of the developed website as an overlay and make a pixel perfect comparison between them.
+- This is a chrome extension that helps develop accurate pixel perfect websites. It allows developers and designers to put a semi-transparent image over the top of the developed website as an overlay and make a pixel perfect comparison between them.
     
 #### <em>Features</em>
 - Multiple overlay support
@@ -449,6 +441,6 @@ The name explains the extension. It is automatically executed if a request to a 
 - Use Shift + arrow keys for 10px position change
     
 #### <em>Availability</em>
-    Pixel Perfect can be added to your chrome by just clicking on this link [chrome](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
+- Pixel Perfect is available for download on [chrome](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
     
-![This is how it looks](/images/pixel-perfect-extension.png)
+![Here is how the extension looks](/images/pixel-perfect-extension.png)
