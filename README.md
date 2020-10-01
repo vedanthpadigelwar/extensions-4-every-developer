@@ -463,3 +463,18 @@ This is a chrome extension that helps develop accurate pixel perfect websites. I
 
 ![Here is how the extension looks](/images/colorzilla.png)
 
+
+
+### 25. Clear Cache
+-  This is a chrome extension that allows developers clear your cache and browsing data with a single click of a button.
+    
+#### <em>Features</em>
+- You can customize what and how much of your data you want to clear on the options page, including: App Cache, Cache, Cookies, Downloads, File Systems, Form Data, History, Indexed DB, Local Storage, Plugin Data, Passwords and WebSQL.
+- Cookies can either be removed globally, only for certain domains or for everything except for certain domains.
+
+#### <em>Availability</em>
+- Clear Cache is available for download on [chrome](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)
+
+![Here is how the extension looks](/images/cache.png)
+
+
