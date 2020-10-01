@@ -424,3 +424,31 @@ The name explains the extension. It is automatically executed if a request to a 
     Session Buddy can be added to your chrome by just clicking on this link [chrome](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
     
 ![This is how it looks after adding the extension to your browser](/images/session-buddy.png)
+
+### 23. Pixel Perfect - Pixel Perfect Accuracy Extension
+    This is a chrome extension that helps develop accurate pixel perfect websites. It allows developers and designers to put a semi-transparent image over the top of the developed website as an overlay and make a pixel perfect comparison between them.
+    
+#### <em>Features</em>
+- Multiple overlay support
+    
+- Separate overlays for each website
+    
+- Overlays are saved between browsing sessions
+    
+- Drag and drop file upload support
+
+- Easy to use UI
+
+- Paste from url and clipboard support
+
+- Keyboard arrow keys and mousewheel support
+
+#### Tips
+- Double-click on header to expand/collapse main window
+
+- Use Shift + arrow keys for 10px position change
+    
+#### <em>Availability</em>
+    Pixel Perfect can be added to your chrome by just clicking on this link [chrome](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
+    
+![This is how it looks](/images/pixel-perfect-extension.png)
