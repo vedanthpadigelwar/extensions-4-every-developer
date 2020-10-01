@@ -401,7 +401,7 @@ The name explains the extension. It is automatically executed if a request to a 
 ![Here is how the extension looks](images/json-viewer.png)
 
 ### 22. Session Buddy - Tab Management Extension
-- This is a chrome extension that allows developers to manage all open tabs in one place. It help users to easily restore open tabs whenever the chrome browser crashes.
+This is a chrome extension that allows developers to manage all open tabs in one place. It help users to easily restore open tabs whenever the chrome browser crashes.
     
 #### <em>Features</em>
 - Save open tabs as collections that can be easily restored later which helps to free up memory
@@ -418,7 +418,7 @@ The name explains the extension. It is automatically executed if a request to a 
 ![Here is how the extension looks](/images/session-buddy.png)
 
 ### 23. Pixel Perfect - Pixel Perfect Accuracy Extension
-- This is a chrome extension that helps develop accurate pixel perfect websites. It allows developers and designers to put a semi-transparent image over the top of the developed website as an overlay and make a pixel perfect comparison between them.
+This is a chrome extension that helps develop accurate pixel perfect websites. It allows developers and designers to put a semi-transparent image over the top of the developed website as an overlay and make a pixel perfect comparison between them.
     
 #### <em>Features</em>
 - Multiple overlay support
