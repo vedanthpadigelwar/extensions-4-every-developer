@@ -316,7 +316,7 @@ Polypane is available on Mac, Windows and Linux and is available here: [polypane
 Dark Theme is available for downloads on [windows](https://chrome.google.com/webstore/detail/dark-mode/dmghijelimhndkbmpgbldicpogfkceaj?hl=en)
 ![Here is how it looks in the browser](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/dark-theme.png)
 
-18. Prodeus : This is a free extensions that keeps track of hours spent learning on Youtube and all other works done all along.
+### 18. Prodeus : This is a free extensions that keeps track of hours spent learning on Youtube and all other works done all along.
 
 #### <em>Features</em>
 
