@@ -401,7 +401,7 @@ The name explains the extension. It is automatically executed if a request to a 
 ![Here is how the extension looks](images/json-viewer.png)
 
 ### 22. Session Buddy - Tab Management Extension
-- This is a chrome extension that allows developers to manage all open tabs in one place. It help users to easily restore open tabs whenever the chrome browser crashes.
+This is a chrome extension that allows developers to manage all open tabs in one place. It help users to easily restore open tabs whenever the chrome browser crashes.
     
 #### <em>Features</em>
 - Save open tabs as collections that can be easily restored later which helps to free up memory
@@ -414,10 +414,40 @@ The name explains the extension. It is automatically executed if a request to a 
     
 #### <em>Availability</em>
 - Session Buddy is available for download on [chrome](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
-
+    
 ![Here is how the extension looks](/images/session-buddy.png)
 
-### 23. ColorZilla Extension
+
+### 23. Pixel Perfect - Pixel Perfect Accuracy Extension
+This is a chrome extension that helps develop accurate pixel perfect websites. It allows developers and designers to put a semi-transparent image over the top of the developed website as an overlay and make a pixel perfect comparison between them.
+    
+#### <em>Features</em>
+- Multiple overlay support
+    
+- Separate overlays for each website
+    
+- Overlays are saved between browsing sessions
+    
+- Drag and drop file upload support
+
+- Easy to use UI
+
+- Paste from url and clipboard support
+
+- Keyboard arrow keys and mousewheel support
+
+#### Tips
+- Double-click on header to expand/collapse main window
+
+- Use Shift + arrow keys for 10px position change
+    
+#### <em>Availability</em>
+- Pixel Perfect is available for download on [chrome](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
+    
+![Here is how the extension looks](/images/pixel-perfect-extension.png)
+
+
+### 24. ColorZilla Extension
 -  With ColorZilla you can get a color reading from any point in your browser, quickly adjust this color and paste it into another program. And it can do so much more....
     
 #### <em>Features</em>
@@ -433,3 +463,4 @@ The name explains the extension. It is automatically executed if a request to a 
 - Colorzilla is available for download on [chrome](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
 
 ![Here is how the extension looks](/images/colorzilla.png)
+
