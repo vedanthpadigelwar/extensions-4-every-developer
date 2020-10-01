@@ -255,18 +255,10 @@ Blazing fast & offline playground for your web experiments.
 - Preview screenshot capture
 - Open source on GitHub
 
-
 ### <em>Availability</em>
-
 Web Maker is available for download on [chrome](https://chrome.google.com/webstore/detail/web-maker/lkfkkhfhhdkiemehlpkgjeojomhpccnh)
 
 # ![Here is how the extension looks](https://github.com/HikwaMehluli/extensions-4-every-developer/blob/add-webmaker-hikwamehluli/web-maker-extension.png)
-
-#### <em>Availability</em>
-
-Web Maker is available for download on [chrome](https://chrome.google.com/webstore/detail/web-maker/lkfkkhfhhdkiemehlpkgjeojomhpccnh)
-
-![Here is how the extension looks](/images/web-maker-extension.png)
 
 ### 14. uBlock Origin: 
 an efficient blocker. Easy on CPU and memory.
