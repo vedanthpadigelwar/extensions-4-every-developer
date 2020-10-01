@@ -258,8 +258,7 @@ Web Maker is available for download on [chrome](https://chrome.google.com/websto
 - Online Malicious URL Blocklist
 
 ### <em>Availability</em>
-
-uBlock Origin is available for download on [chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=chrome-ntp-icon)
+uBlock Origin is available for download on [chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/ublock-origin.png)
 
