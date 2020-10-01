@@ -30,7 +30,7 @@ This extension puts github on steriods. Gone are the days of ugly looking github
 
 Octotree is available for download on [chrome](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) and [mozilla](https://addons.mozilla.org/en-US/firefox/addon/octotree/)
 
-![Here is how the extension looks](/images/octotree-extension.png" width="1000")
+![Here is how the extension looks](/images/octotree-extension.png)
 
 ### 2. Check My Links Extension: 
 This extension is a link checker that crawls through your webpage and looks for all things, links. 
