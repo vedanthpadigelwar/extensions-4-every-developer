@@ -356,7 +356,7 @@ Prodeus is available for download on [chrome](https://chrome.google.com/webstore
 
 ![Here is how the extension looks](images/prodeus-extention.png)
 
-### 18. Usersnap Extension: 
+### 19. Usersnap Extension: 
 This is a chrome extension that allows you capture your screen, collect user feedback, and track bugs reports on any website, prototype, or application.
 
 #### <em>Features</em>
@@ -370,10 +370,10 @@ This is a chrome extension that allows you capture your screen, collect user fee
 
 - Metadata Analyzed: Usersnap automatically includes the environment data to the tickets. URL, browser info, screen size, time, and location are some examples. 
 
-### <em>Availability<em>
+### <em>Availability</em>
 Usersnapshot is available for download on [chrome](https://chrome.google.com/webstore/detail/usersnap-capture-visual-f/khehmhbaabkepkojebhcpjifcmojdmgd?hl=en)
 
-### 19. Lorem Ipsum Generator Extension: 
+### 20. Lorem Ipsum Generator Extension: 
 This extension provides an elegant and quick way to create default text or generate Lorem Ipsum. Optimized for quick usage, but it can customized.
 #### <em>Features</em>
 - Quickly delivers default text to complement your amazing design
@@ -383,3 +383,22 @@ This extension provides an elegant and quick way to create default text or gener
 #### <em>Availability<em>
 Lorem ipsum generator is available for download on [chrome](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb/related?hl=en)
 
+### 21. JSON Viewer:
+
+The name explains the extension. It is automatically executed if a request to a URL returns JSON and presents it in a more readable, concise and accessible way. It is basically a port of Firefox's default JSON viewer.
+
+#### <em>Features</em>
+- Light and dark mode
+- Filter the json object
+- View response headers
+- View the raw data returned
+- Collapse/Expand all toggles
+- Save the response as a JSON file
+
+#### <em>Availability</em>
+
+- Firefox has its own [JSON Viewer](https://developer.mozilla.org/en-US/docs/Tools/JSON_viewer)
+- Chrome Web Store: [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/efknglbfhoddmmfabeihlemgekhhnabb)
+- Edge: Can install from the Chrome Web store
+
+![Here is how the extension looks](images/json-viewer.png)
