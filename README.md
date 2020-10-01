@@ -421,6 +421,6 @@ The name explains the extension. It is automatically executed if a request to a 
     - Search open tabs and collections to quickly find what you're looking for.
     
 #### <em>Availability</em>
-    Session Buddy can be added to your chrome by just clicking on this link [chrome](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
+    Session Buddy is available for download on [chrome](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
     
-![This is how it looks after adding the extension to your browser](/images/session-buddy.png)
+![Here is how the extension looks](/images/session-buddy.png)
