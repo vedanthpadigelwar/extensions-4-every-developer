@@ -235,6 +235,7 @@ Microsoft Teams Bot is available for download on [chrome](https://chrome.google.
 Blazing fast & offline playground for your web experiments.
 
 #### <em>Features</em>
+
 - Works offline
 - User accounts
 - Supports pre-processors: HTML (jade, markdown), CSS (SCSS, LESS, Atomic CSS, Stylus) & JavaScript (ES6, CoffeeScript, TypeScript)
@@ -254,14 +255,12 @@ Blazing fast & offline playground for your web experiments.
 - Preview screenshot capture
 - Open source on GitHub
 
-#### <em>Availability</em>
+### <em>Availability</em>
 Web Maker is available for download on [chrome](https://chrome.google.com/webstore/detail/web-maker/lkfkkhfhhdkiemehlpkgjeojomhpccnh)
 
-![Here is how the extension looks](/images/web-maker-extension.png)
+# ![Here is how the extension looks](https://github.com/HikwaMehluli/extensions-4-every-developer/blob/add-webmaker-hikwamehluli/web-maker-extension.png)
 
-=======
-
-### v14. uBlock Origin: 
+### 14. uBlock Origin: 
 an efficient blocker. Easy on CPU and memory.
 
 #### <em>Features</em>
@@ -281,18 +280,20 @@ uBlock Origin is available for download on [chrome](https://chrome.google.com/we
 It is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. it runs a series of audits against the page, and then it generates a report on how well the page did.
 
 #### <em>Features</em>
+
 - It has audits for performance, accessibility, progressive web apps, SEO and more.
 
 #### <em>Availability</em>
+
 Choose the Lighthouse workflow that suits you best:
+
 - In **[Chrome DevTools](https://developers.google.com/web/tools/lighthouse#devtools)** - Easily audit pages that require authentication, and read your reports in a user-friendly format.
 - From the **[command line](https://developers.google.com/web/tools/lighthouse#cli)** - Automate your Lighthouse runs via shell scripts.
 - As a **[Node module](https://developers.google.com/web/tools/lighthouse#programmatic)** - Integrate Lighthouse into your continuous integration systems.
 - From a **[web UI](https://developers.google.com/web/tools/lighthouse#psi)** - Run Lighthouse and link to reports without installing a thing.
 
-![Here is how the extension looks using chrome devtools](https://res.cloudinary.com/dsderm9xw/image/upload/v1600736555/Screenshot_2020-09-22_Lighthouse_Report_Viewer_mgxvrl.png)
 
-=======
+# ![Here is how the extension looks using chrome devtools](https://res.cloudinary.com/dsderm9xw/image/upload/v1600736555/Screenshot_2020-09-22_Lighthouse_Report_Viewer_mgxvrl.png)
 
 ### 16. Polypane: 
 A standalone browser with all the tools you need to build responsive, accessible and performant sites five times faster.
@@ -322,16 +323,32 @@ Polypane is available on Mac, Windows and Linux and is available here: [polypane
 ### 17. Dark Theme For Chrome: 
 Dark Mode is an extension that helps you quickly turn the screen (browser) to dark at night time.
 
-#### <em>Features</em>
+### <em>Features</em>
+
 - The Toolbar button serves as an ON|OFF switch which enables you to easily and quickly turn the extension ON or OFF.
 
 #### <em>Availability</em>
 
-Dark Theme is available for downloads on [windows](https://chrome.google.com/webstore/detail/dark-mode/dmghijelimhndkbmpgbldicpogfkceaj?hl=en
-)
-![Here is how the extension looks](/images/dark-theme.png)
+Dark Theme is available for downloads on [windows](https://chrome.google.com/webstore/detail/dark-mode/dmghijelimhndkbmpgbldicpogfkceaj?hl=en)
+![Here is how it looks in the browser](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/dark-theme.png)
 
-### 18. Usersnap Extension: 
+18. Prodeus : This is a free extensions that keeps track of hours spent learning on Youtube and all other works done all along.
+
+#### <em>Features</em>
+
+- Keeps track of hours spent watching/learning on Youtube
+- Add classes for different things you learn.
+- Get a degree based on the amount of hours spent.
+- Get resources(suggestions) from the library
+- Connect the degree to your Linkedin profile
+
+#### <em>Availiabilty</em>
+
+Prodeus is available for download on [chrome](https://chrome.google.com/webstore/detail/prodeus/aglakbhkijgpmoploegcpnbnedgiampn)
+
+![Here is how the extension looks](images/prodeus-extention.png)
+
+### 19. Usersnap Extension: 
 This is a chrome extension that allows you capture your screen, collect user feedback, and track bugs reports on any website, prototype, or application.
 
 #### <em>Features</em>
@@ -348,11 +365,101 @@ This is a chrome extension that allows you capture your screen, collect user fee
 ### <em>Availability</em>
 Usersnapshot is available for download on [chrome](https://chrome.google.com/webstore/detail/usersnap-capture-visual-f/khehmhbaabkepkojebhcpjifcmojdmgd?hl=en)
 
-### 19. Lorem Ipsum Generator Extension: 
+![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/images/usersnap.png)
+
+### 20. Lorem Ipsum Generator Extension: 
 This extension provides an elegant and quick way to create default text or generate Lorem Ipsum. Optimized for quick usage, but it can customized.
+
 #### <em>Features</em>
 - Quickly delivers default text to complement your amazing design
 - Easily customizable 
 - Each sentence is randomly generated to simulate real text.
 #### <em>Availability</em>
 Lorem ipsum generator is available for download on [chrome](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb/related?hl=en)
+
+![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/images/loremIpsum.png)
+
+### 21. JSON Viewer:
+
+The name explains the extension. It is automatically executed if a request to a URL returns JSON and presents it in a more readable, concise and accessible way. It is basically a port of Firefox's default JSON viewer.
+
+#### <em>Features</em>
+- Light and dark mode
+- Filter the json object
+- View response headers
+- View the raw data returned
+- Collapse/Expand all toggles
+- Save the response as a JSON file
+
+#### <em>Availability</em>
+
+- Firefox has its own [JSON Viewer](https://developer.mozilla.org/en-US/docs/Tools/JSON_viewer)
+- Chrome Web Store: [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/efknglbfhoddmmfabeihlemgekhhnabb)
+- Edge: Can install from the Chrome Web store
+
+![Here is how the extension looks](images/json-viewer.png)
+
+### 22. Session Buddy - Tab Management Extension
+This is a chrome extension that allows developers to manage all open tabs in one place. It help users to easily restore open tabs whenever the chrome browser crashes.
+    
+#### <em>Features</em>
+- Save open tabs as collections that can be easily restored later which helps to free up memory
+    
+- See and manage all open tabs in one place.
+    
+- Recover your open tabs after a crash.
+    
+- Search open tabs and collections to quickly find what you're looking for.
+    
+#### <em>Availability</em>
+- Session Buddy is available for download on [chrome](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
+    
+![Here is how the extension looks](/images/session-buddy.png)
+
+
+### 23. Pixel Perfect - Pixel Perfect Accuracy Extension
+This is a chrome extension that helps develop accurate pixel perfect websites. It allows developers and designers to put a semi-transparent image over the top of the developed website as an overlay and make a pixel perfect comparison between them.
+    
+#### <em>Features</em>
+- Multiple overlay support
+    
+- Separate overlays for each website
+    
+- Overlays are saved between browsing sessions
+    
+- Drag and drop file upload support
+
+- Easy to use UI
+
+- Paste from url and clipboard support
+
+- Keyboard arrow keys and mousewheel support
+
+#### Tips
+- Double-click on header to expand/collapse main window
+
+- Use Shift + arrow keys for 10px position change
+    
+#### <em>Availability</em>
+- Pixel Perfect is available for download on [chrome](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
+    
+![Here is how the extension looks](/images/pixel-perfect-extension.png)
+
+
+### 24. ColorZilla Extension
+-  With ColorZilla you can get a color reading from any point in your browser, quickly adjust this color and paste it into another program. And it can do so much more....
+    
+#### <em>Features</em>
+- Eyedropper - get the color of any pixel on the page
+- Advanced Color Picker (similar to Photoshop's)
+- Ultimate CSS Gradient Generator
+- Webpage Color Analyzer - get a color palette for any site
+- Palette Viewer with 7 pre-installed palettes
+- Color History of recently picked colors
+- Displays element information like tag name, class, id, size etc
+    
+#### <em>Availability</em>
+- Colorzilla is available for download on [chrome](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
+
+![Here is how the extension looks](/images/colorzilla.png)
+
