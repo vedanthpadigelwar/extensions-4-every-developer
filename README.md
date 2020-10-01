@@ -451,13 +451,13 @@ This is a chrome extension that helps develop accurate pixel perfect websites. I
 -  With ColorZilla you can get a color reading from any point in your browser, quickly adjust this color and paste it into another program. And it can do so much more....
     
 #### <em>Features</em>
-✓ Eyedropper - get the color of any pixel on the page
-✓ Advanced Color Picker (similar to Photoshop's)
-✓ Ultimate CSS Gradient Generator
-✓ Webpage Color Analyzer - get a color palette for any site
-✓ Palette Viewer with 7 pre-installed palettes
-✓ Color History of recently picked colors
-✓ Displays element information like tag name, class, id, size etc
+- Eyedropper - get the color of any pixel on the page
+- Advanced Color Picker (similar to Photoshop's)
+- Ultimate CSS Gradient Generator
+- Webpage Color Analyzer - get a color palette for any site
+- Palette Viewer with 7 pre-installed palettes
+- Color History of recently picked colors
+- Displays element information like tag name, class, id, size etc
     
 #### <em>Availability</em>
 - Colorzilla is available for download on [chrome](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
