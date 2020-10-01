@@ -373,8 +373,11 @@ This is a chrome extension that allows you capture your screen, collect user fee
 ### <em>Availability</em>
 Usersnapshot is available for download on [chrome](https://chrome.google.com/webstore/detail/usersnap-capture-visual-f/khehmhbaabkepkojebhcpjifcmojdmgd?hl=en)
 
+![Here is how the extension looks]()
+
 ### 20. Lorem Ipsum Generator Extension: 
 This extension provides an elegant and quick way to create default text or generate Lorem Ipsum. Optimized for quick usage, but it can customized.
+
 #### <em>Features</em>
 - Quickly delivers default text to complement your amazing design
 - Easily customizable 
@@ -382,6 +385,8 @@ This extension provides an elegant and quick way to create default text or gener
 
 #### <em>Availability<em>
 Lorem ipsum generator is available for download on [chrome](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb/related?hl=en)
+
+![Here is how the extension looks]()
 
 ### 21. JSON Viewer:
 
