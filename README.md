@@ -311,3 +311,20 @@ Polypane is available on Mac, Windows and Linux and is available here: [polypane
 Dark Theme is available for downloads on [windows](https://chrome.google.com/webstore/detail/dark-mode/dmghijelimhndkbmpgbldicpogfkceaj?hl=en
 )
 ![Here is how it looks in the browser](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/dark-theme.png)
+
+18. Usersnap Extension: This is a chrome extension that allows you capture your screen, collect user feedback, and track bugs reports on any website, prototype, or application.
+
+### <em>Features</em>
+-  In-Browser Screenshots: you’ll get a screenshot of what your users experience. Quickly uncover browser-specific issues.
+
+- No-Code Installation: with the browser extension, there’s no need to install any additional code on your site/app.
+
+- Collaborate & Communicate: assign and track each item in Usersnap with your team. Add labels, attachments and comments to work better together.
+
+- Console Log Errors: client-side javascript errors are captured with the screenshot. Minimize your time troubleshooting.
+
+- Metadata Analyzed: Usersnap automatically includes the environment data to the tickets. URL, browser info, screen size, time, and location are some examples. 
+
+### <em>Availability<em>
+Usersnapshot is available for download on [chrome](https://chrome.google.com/webstore/detail/usersnap-capture-visual-f/khehmhbaabkepkojebhcpjifcmojdmgd?hl=en)
+
