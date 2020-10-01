@@ -331,3 +331,35 @@ Dark Theme is available for downloads on [windows](https://chrome.google.com/web
 Prodeus is available for download on [chrome](https://chrome.google.com/webstore/detail/prodeus/aglakbhkijgpmoploegcpnbnedgiampn)
 
 ![Here is how the extension looks](images/prodeus-extention.png)
+
+19. Usersnap Extension:
+    This is a chrome extension that allows you capture your screen, collect user feedback, and track bugs reports on any website, prototype, or application.
+
+#### <em>Features</em>
+
+- In-Browser Screenshots: you’ll get a screenshot of what your users experience. Quickly uncover browser-specific issues.
+
+- No-Code Installation: with the browser extension, there’s no need to install any additional code on your site/app.
+
+- Collaborate & Communicate: assign and track each item in Usersnap with your team. Add labels, attachments and comments to work better together.
+
+- Console Log Errors: client-side javascript errors are captured with the screenshot. Minimize your time troubleshooting.
+
+- Metadata Analyzed: Usersnap automatically includes the environment data to the tickets. URL, browser info, screen size, time, and location are some examples.
+
+### <em>Availability<em>
+
+Usersnapshot is available for download on [chrome](https://chrome.google.com/webstore/detail/usersnap-capture-visual-f/khehmhbaabkepkojebhcpjifcmojdmgd?hl=en)
+
+20. Lorem Ipsum Generator Extension:
+    This extension provides an elegant and quick way to create default text or generate Lorem Ipsum. Optimized for quick usage, but it can customized.
+
+#### <em>Features</em>
+
+- Quickly delivers default text to complement your amazing design
+- Easily customizable
+- Each sentence is randomly generated to simulate real text.
+
+### <em>Availability<em>
+
+Lorem ipsum generator is available for download on [chrome](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb/related?hl=en)
