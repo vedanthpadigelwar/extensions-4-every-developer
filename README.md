@@ -42,7 +42,7 @@ Octotree is available for download on [chrome](https://chrome.google.com/webstor
 
 #### <em>Availability</em>
 
-Octotree is available for download on [chrome](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en)
+Check My Links is available for download on [chrome](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en)
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/check-my-links-extension.png)
 
