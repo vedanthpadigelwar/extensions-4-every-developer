@@ -328,3 +328,10 @@ Dark Theme is available for downloads on [windows](https://chrome.google.com/web
 ### <em>Availability<em>
 Usersnapshot is available for download on [chrome](https://chrome.google.com/webstore/detail/usersnap-capture-visual-f/khehmhbaabkepkojebhcpjifcmojdmgd?hl=en)
 
+19. Lorem Ipsum Generator Extension : This extension provides an elegant and quick way to create default text or generate Lorem Ipsum. Optimized for quick usage, but it can customized.
+### <em>Features</em>
+- Quickly delivers default text to complement your amazing design
+- Easily customizable 
+- Each sentence is randomly generated to simulate real text.
+### <em>Availability<em>
+Lorem ipsum generator is available for download on [chrome](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb/related?hl=en)
