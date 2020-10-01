@@ -414,9 +414,4 @@ The name explains the extension. It is automatically executed if a request to a 
     
 #### <em>Availability</em>
 - Session Buddy is available for download on [chrome](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
-    
-<<<<<<< HEAD
 ![Here is how the extension looks](/images/session-buddy.png)
-=======
-![This is how it looks after adding the extension to your browser](/images/session-buddy.png)
->>>>>>> 2ff2445243b3f643b72a59cc3fbc27408e2e3790
