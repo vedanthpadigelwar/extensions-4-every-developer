@@ -386,7 +386,7 @@ This extension provides an elegant and quick way to create default text or gener
 #### <em>Availability<em>
 Lorem ipsum generator is available for download on [chrome](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb/related?hl=en)
 
-![Here is how the extension looks]()
+![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/images/loremIpsum.png)
 
 ### 21. JSON Viewer:
 
