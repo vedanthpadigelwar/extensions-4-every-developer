@@ -354,5 +354,5 @@ This extension provides an elegant and quick way to create default text or gener
 - Quickly delivers default text to complement your amazing design
 - Easily customizable 
 - Each sentence is randomly generated to simulate real text.
-#### <em>Availability<em>
+#### <em>Availability</em>
 Lorem ipsum generator is available for download on [chrome](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb/related?hl=en)
