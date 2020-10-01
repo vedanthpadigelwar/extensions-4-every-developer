@@ -417,6 +417,7 @@ This is a chrome extension that allows developers to manage all open tabs in one
     
 ![Here is how the extension looks](/images/session-buddy.png)
 
+
 ### 23. Pixel Perfect - Pixel Perfect Accuracy Extension
 This is a chrome extension that helps develop accurate pixel perfect websites. It allows developers and designers to put a semi-transparent image over the top of the developed website as an overlay and make a pixel perfect comparison between them.
     
@@ -444,3 +445,22 @@ This is a chrome extension that helps develop accurate pixel perfect websites. I
 - Pixel Perfect is available for download on [chrome](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
     
 ![Here is how the extension looks](/images/pixel-perfect-extension.png)
+
+
+### 24. ColorZilla Extension
+-  With ColorZilla you can get a color reading from any point in your browser, quickly adjust this color and paste it into another program. And it can do so much more....
+    
+#### <em>Features</em>
+✓ Eyedropper - get the color of any pixel on the page
+✓ Advanced Color Picker (similar to Photoshop's)
+✓ Ultimate CSS Gradient Generator
+✓ Webpage Color Analyzer - get a color palette for any site
+✓ Palette Viewer with 7 pre-installed palettes
+✓ Color History of recently picked colors
+✓ Displays element information like tag name, class, id, size etc
+    
+#### <em>Availability</em>
+- Colorzilla is available for download on [chrome](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
+
+![Here is how the extension looks](/images/colorzilla.png)
+
