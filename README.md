@@ -416,3 +416,20 @@ The name explains the extension. It is automatically executed if a request to a 
 - Session Buddy is available for download on [chrome](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
 
 ![Here is how the extension looks](/images/session-buddy.png)
+
+### 23. ColorZilla Extension
+-  With ColorZilla you can get a color reading from any point in your browser, quickly adjust this color and paste it into another program. And it can do so much more....
+    
+#### <em>Features</em>
+✓ Eyedropper - get the color of any pixel on the page
+✓ Advanced Color Picker (similar to Photoshop's)
+✓ Ultimate CSS Gradient Generator
+✓ Webpage Color Analyzer - get a color palette for any site
+✓ Palette Viewer with 7 pre-installed palettes
+✓ Color History of recently picked colors
+✓ Displays element information like tag name, class, id, size etc
+    
+#### <em>Availability</em>
+- Colorzilla is available for download on [chrome](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
+
+![Here is how the extension looks](/images/colorzilla.png)
