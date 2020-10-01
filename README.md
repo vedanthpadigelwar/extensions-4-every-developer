@@ -6,7 +6,7 @@ Please leave a star.
 
 ### Here is a list of extensions that every web developer should use
 
-To contribute, follow the [contributing guidelines]()
+To contribute, follow the [contributing guidelines](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/Contributing.md) and refer to the [snippet](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/Snippet.md)
 
 ### 1. OctoTree: 
 This extension puts github on steriods. Gone are the days of ugly looking github repositories.
@@ -374,8 +374,7 @@ This extension provides an elegant and quick way to create default text or gener
 - Quickly delivers default text to complement your amazing design
 - Easily customizable 
 - Each sentence is randomly generated to simulate real text.
-
-#### <em>Availability<em>
+#### <em>Availability</em>
 Lorem ipsum generator is available for download on [chrome](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb/related?hl=en)
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/images/loremIpsum.png)
@@ -401,7 +400,7 @@ The name explains the extension. It is automatically executed if a request to a 
 ![Here is how the extension looks](images/json-viewer.png)
 
 ### 22. Session Buddy - Tab Management Extension
-- This is a chrome extension that allows developers to manage all open tabs in one place. It help users to easily restore open tabs whenever the chrome browser crashes.
+This is a chrome extension that allows developers to manage all open tabs in one place. It help users to easily restore open tabs whenever the chrome browser crashes.
     
 #### <em>Features</em>
 - Save open tabs as collections that can be easily restored later which helps to free up memory
@@ -414,20 +413,50 @@ The name explains the extension. It is automatically executed if a request to a 
     
 #### <em>Availability</em>
 - Session Buddy is available for download on [chrome](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
-
+    
 ![Here is how the extension looks](/images/session-buddy.png)
 
-### 23. ColorZilla Extension
+
+### 23. Pixel Perfect - Pixel Perfect Accuracy Extension
+This is a chrome extension that helps develop accurate pixel perfect websites. It allows developers and designers to put a semi-transparent image over the top of the developed website as an overlay and make a pixel perfect comparison between them.
+    
+#### <em>Features</em>
+- Multiple overlay support
+    
+- Separate overlays for each website
+    
+- Overlays are saved between browsing sessions
+    
+- Drag and drop file upload support
+
+- Easy to use UI
+
+- Paste from url and clipboard support
+
+- Keyboard arrow keys and mousewheel support
+
+#### Tips
+- Double-click on header to expand/collapse main window
+
+- Use Shift + arrow keys for 10px position change
+    
+#### <em>Availability</em>
+- Pixel Perfect is available for download on [chrome](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
+    
+![Here is how the extension looks](/images/pixel-perfect-extension.png)
+
+
+### 24. ColorZilla Extension
 -  With ColorZilla you can get a color reading from any point in your browser, quickly adjust this color and paste it into another program. And it can do so much more....
     
 #### <em>Features</em>
-✓ Eyedropper - get the color of any pixel on the page
-✓ Advanced Color Picker (similar to Photoshop's)
-✓ Ultimate CSS Gradient Generator
-✓ Webpage Color Analyzer - get a color palette for any site
-✓ Palette Viewer with 7 pre-installed palettes
-✓ Color History of recently picked colors
-✓ Displays element information like tag name, class, id, size etc
+- Eyedropper - get the color of any pixel on the page
+- Advanced Color Picker (similar to Photoshop's)
+- Ultimate CSS Gradient Generator
+- Webpage Color Analyzer - get a color palette for any site
+- Palette Viewer with 7 pre-installed palettes
+- Color History of recently picked colors
+- Displays element information like tag name, class, id, size etc
     
 #### <em>Availability</em>
 - Colorzilla is available for download on [chrome](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
@@ -435,7 +464,8 @@ The name explains the extension. It is automatically executed if a request to a 
 ![Here is how the extension looks](/images/colorzilla.png)
 
 
-### 24. Clear Cache
+
+### 25. Clear Cache
 -  This is a chrome extension that allows developers clear your cache and browsing data with a single click of a button.
     
 #### <em>Features</em>
@@ -446,4 +476,5 @@ The name explains the extension. It is automatically executed if a request to a 
 - Clear Cache is available for download on [chrome](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)
 
 ![Here is how the extension looks](/images/cache.png)
+
 
