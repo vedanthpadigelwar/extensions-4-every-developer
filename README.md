@@ -6,7 +6,7 @@ Please leave a star.
 
 ### Here is a list of extensions that every web developer should use
 
-To contribute, follow the [contributing guidelines]()
+To contribute, follow the [contributing guidelines](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/Contributing.md) and refer to the [snippet](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/Snippet.md)
 
 ### 1. OctoTree: 
 This extension puts github on steriods. Gone are the days of ugly looking github repositories.
@@ -345,7 +345,7 @@ This is a chrome extension that allows you capture your screen, collect user fee
 
 - Metadata Analyzed: Usersnap automatically includes the environment data to the tickets. URL, browser info, screen size, time, and location are some examples. 
 
-### <em>Availability<em>
+### <em>Availability</em>
 Usersnapshot is available for download on [chrome](https://chrome.google.com/webstore/detail/usersnap-capture-visual-f/khehmhbaabkepkojebhcpjifcmojdmgd?hl=en)
 
 ### 19. Lorem Ipsum Generator Extension: 
