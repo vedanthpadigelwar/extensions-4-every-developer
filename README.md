@@ -222,6 +222,7 @@ Microsoft Teams Bot is available for download on [chrome](https://chrome.google.
 13. Web Maker: Blazing fast & offline playground for your web experiments.
 
 #### <em>Features</em>
+
 - Works offline
 - User accounts
 - Supports pre-processors: HTML (jade, markdown), CSS (SCSS, LESS, Atomic CSS, Stylus) & JavaScript (ES6, CoffeeScript, TypeScript)
@@ -242,10 +243,10 @@ Microsoft Teams Bot is available for download on [chrome](https://chrome.google.
 - Open source on GitHub
 
 ### <em>Availability</em>
+
 Web Maker is available for download on [chrome](https://chrome.google.com/webstore/detail/web-maker/lkfkkhfhhdkiemehlpkgjeojomhpccnh)
 
-![Here is how the extension looks](https://github.com/HikwaMehluli/extensions-4-every-developer/blob/add-webmaker-hikwamehluli/web-maker-extension.png)
-=======
+# ![Here is how the extension looks](https://github.com/HikwaMehluli/extensions-4-every-developer/blob/add-webmaker-hikwamehluli/web-maker-extension.png)
 
 14. uBlock Origin : an efficient blocker. Easy on CPU and memory.
 
@@ -266,17 +267,19 @@ uBlock Origin is available for download on [chrome](https://chrome.google.com/we
 15. Lighthouse : It is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. it runs a series of audits against the page, and then it generates a report on how well the page did.
 
 #### <em>Features</em>
+
 - It has audits for performance, accessibility, progressive web apps, SEO and more.
 
 ### <em>Availability</em>
+
 Choose the Lighthouse workflow that suits you best:
+
 - In **[Chrome DevTools](https://developers.google.com/web/tools/lighthouse#devtools)** - Easily audit pages that require authentication, and read your reports in a user-friendly format.
 - From the **[command line](https://developers.google.com/web/tools/lighthouse#cli)** - Automate your Lighthouse runs via shell scripts.
 - As a **[Node module](https://developers.google.com/web/tools/lighthouse#programmatic)** - Integrate Lighthouse into your continuous integration systems.
 - From a **[web UI](https://developers.google.com/web/tools/lighthouse#psi)** - Run Lighthouse and link to reports without installing a thing.
 
-![Here is how the extension looks using chrome devtools](https://res.cloudinary.com/dsderm9xw/image/upload/v1600736555/Screenshot_2020-09-22_Lighthouse_Report_Viewer_mgxvrl.png)
-=======
+# ![Here is how the extension looks using chrome devtools](https://res.cloudinary.com/dsderm9xw/image/upload/v1600736555/Screenshot_2020-09-22_Lighthouse_Report_Viewer_mgxvrl.png)
 
 16. Polypane: A standalone browser with all the tools you need to build responsive, accessible and performant sites five times faster.
 
@@ -305,10 +308,26 @@ Polypane is available on Mac, Windows and Linux and is available here: [polypane
 17. Dark Theme For Chrome: Dark Mode is an extension that helps you quickly turn the screen (browser) to dark at night time.
 
 ### <em>Features</em>
+
 - The Toolbar button serves as an ON|OFF switch which enables you to easily and quickly turn the extension ON or OFF.
 
 ### <em>Availability</em>
 
-Dark Theme is available for downloads on [windows](https://chrome.google.com/webstore/detail/dark-mode/dmghijelimhndkbmpgbldicpogfkceaj?hl=en
-)
+Dark Theme is available for downloads on [windows](https://chrome.google.com/webstore/detail/dark-mode/dmghijelimhndkbmpgbldicpogfkceaj?hl=en)
 ![Here is how it looks in the browser](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/dark-theme.png)
+
+18. Prodeus : This is a free extensions that keeps track of hours spent learning on Youtube and all other works done all along.
+
+#### <em>Features</em>
+
+- Keeps track of hours spent watching/learning on Youtube
+- Add classes for different things you learn.
+- Get a degree based on the amount of hours spent.
+- Get resources(suggestions) from the library
+- Connect the degree to your Linkedin profile
+
+#### <em>Availiabilty</em>
+
+Prodeus is available for download on [chrome](https://chrome.google.com/webstore/detail/prodeus/aglakbhkijgpmoploegcpnbnedgiampn)
+
+![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/prodeus-extention.png)
