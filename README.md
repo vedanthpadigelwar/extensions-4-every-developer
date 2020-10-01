@@ -407,3 +407,20 @@ The name explains the extension. It is automatically executed if a request to a 
 - Edge: Can install from the Chrome Web store
 
 ![Here is how the extension looks](images/json-viewer.png)
+
+### 22. Session Buddy - Tab Management Extension
+    This is a chrome extension that allows developers to manage all open tabs in one place. It help users to easily restore open tabs whenever the chrome browser crashes.
+    
+#### <em>Features</em>
+    - Save open tabs as collections that can be easily restored later which helps to free up memory
+    
+    - See and manage all open tabs in one place.
+    
+    - Recover your open tabs after a crash.
+    
+    - Search open tabs and collections to quickly find what you're looking for.
+    
+#### <em>Availability</em>
+    Session Buddy can be added to your chrome by just clicking on this link [chrome](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
+    
+![This is how it looks after adding the extension to your browser](/images/session-buddy.png)
