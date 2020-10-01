@@ -433,3 +433,17 @@ The name explains the extension. It is automatically executed if a request to a 
 - Colorzilla is available for download on [chrome](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
 
 ![Here is how the extension looks](/images/colorzilla.png)
+
+
+### 24. Clear Cache
+-  This is a chrome extension that allows developers clear your cache and browsing data with a single click of a button.
+    
+#### <em>Features</em>
+- You can customize what and how much of your data you want to clear on the options page, including: App Cache, Cache, Cookies, Downloads, File Systems, Form Data, History, Indexed DB, Local Storage, Plugin Data, Passwords and WebSQL.
+- Cookies can either be removed globally, only for certain domains or for everything except for certain domains.
+
+#### <em>Availability</em>
+- Clear Cache is available for download on [chrome](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)
+
+![Here is how the extension looks](/images/cache.png)
+
