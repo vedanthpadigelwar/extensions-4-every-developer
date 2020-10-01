@@ -46,7 +46,7 @@ Broken links, valid links, redirecting links, we got you covered.
 
 Check My Links is available for download on [chrome](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en)
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/check-my-links-extension.png)
+![Here is how the extension looks](/images/check-my-links-extension.png)
 
 ### 3. Windows Resizer: 
 This extension re-sizes the browser's window in order to emulate various resolutions.
@@ -63,7 +63,7 @@ This extension re-sizes the browser's window in order to emulate various resolut
 
 Windows resizer is available for download on [chrome](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/windows-resizer-extension.png)
+![Here is how the extension looks](/images/windows-resizer-extension.png)
 
 ### 4. Color By Fardos: 
 This extension allows you pick colors from websites, save colors & gradients, get matching shades and tints and create beautiful gradients.
@@ -81,7 +81,7 @@ This extension allows you pick colors from websites, save colors & gradients, ge
 
 Color By Fardos is available for download on [chrome](https://chrome.google.com/webstore/detail/color-by-fardos-color-pic/iibpgpkhpfggipbacjfeijkloidhmiei)
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/colorbyfardos-extension.png)
+![Here is how the extension looks](/images/colorbyfardos-extension.png)
 
 ### 5. Css Viewer: 
 This extension is a simple Css property viewer. Hover over any element and get all the css properties attached to it
@@ -94,7 +94,7 @@ This extension is a simple Css property viewer. Hover over any element and get a
 
 Css viewer is an available for download on [chrome](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en)
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/css-viewer-extension.png)
+![Here is how the extension looks](/images/css-viewer-extension.png)
 
 ### 6. Pesticide: 
 This extension outlines every element on a page thereby allowing the user see a better placement on the page.
@@ -109,7 +109,7 @@ This extension outlines every element on a page thereby allowing the user see a 
 
 Pesticide is available for download on [chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/eipbgplchlidkojmppclhkechkhmlefi?hl=en) and [firefox](https://addons.mozilla.org/en-US/firefox/addon/pesticide-for-firefox/)
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/pesticide-extension.png)
+![Here is how the extension looks](/images/pesticide-extension.png)
 
 ### 7. Wappalyzer: 
 This extension is a technology profiler that shows you what websites and web applications ae built with.
@@ -124,7 +124,7 @@ This extension is a technology profiler that shows you what websites and web app
 
 Wappalyzer is available for download on [chrome](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) and [firefox](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/wappalyzer-extension.png)
+![Here is how the extension looks](/images/wappalyzer-extension.png)
 
 ### 8. Screencastify: 
 This extension helps to capture, edit and share videos in seconds.
@@ -157,7 +157,7 @@ This extension helps to capture, edit and share videos in seconds.
 
 Screencastify is available for download on [chrome](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn?hl=en)
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/screencastify-extension.png)
+![Here is how the extension looks](/images/screencastify-extension.png)
 
 ### 9. Web Developer Checklist: 
 This extension helps developers by providing a yardstick to test if they have followed best practices
@@ -173,7 +173,7 @@ This extension helps developers by providing a yardstick to test if they have fo
 
 Web Developer checklist is available for download on [chrome](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en) and [firefox](https://addons.mozilla.org/en-US/firefox/addon/webdeveloperchecklist/)
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/webdeveloper-checklist-extension.png)
+![Here is how the extension looks](/images/webdeveloper-checklist-extension.png)
 
 ### 10. What font: 
 This extension makes it ridiculously easy to identify fonts used in a website.
@@ -189,7 +189,7 @@ This extension makes it ridiculously easy to identify fonts used in a website.
 
 - What font is available for download on [chrome](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)and [mpzilla](https://addons.mozilla.org/en-US/firefox/addon/zjm-whatfont/)
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/whatfont-extension.png)
+![Here is how the extension looks](/images/whatfont-extension.png)
 
 ### 11. Web Developer: 
 What a weird name for an extension. What it does is far from weird, though. This extension adds a toolbar button to the browser with various web developer tools.
@@ -204,7 +204,7 @@ What a weird name for an extension. What it does is far from weird, though. This
 
 Web developer is available for download on [chrome](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) and [firefox](https://addons.mozilla.org/en-US/firefox/addon/web-developer/)
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/web-developer-extension-2.png)
+![Here is how the extension looks](/images/web-developer-extension-2.png)
 
 ### 12. Microsoft Teams Bot: 
 It's a bot which can attend your online classes/meetings on Microsoft Teams.
@@ -229,7 +229,7 @@ It's a bot which can attend your online classes/meetings on Microsoft Teams.
 
 Microsoft Teams Bot is available for download on [chrome](https://chrome.google.com/webstore/detail/n-bot-microsoft-teams-onl/onbankppjhoeccfkpnhogojjllbefglb)
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/microsoft-teams-bot.png)
+![Here is how the extension looks](/images/microsoft-teams-bot.png)
 
 ### 13. Web Maker: 
 Blazing fast & offline playground for your web experiments.
@@ -257,7 +257,8 @@ Blazing fast & offline playground for your web experiments.
 #### <em>Availability</em>
 Web Maker is available for download on [chrome](https://chrome.google.com/webstore/detail/web-maker/lkfkkhfhhdkiemehlpkgjeojomhpccnh)
 
-![Here is how the extension looks](https://github.com/HikwaMehluli/extensions-4-every-developer/blob/add-webmaker-hikwamehluli/web-maker-extension.png)
+![Here is how the extension looks](/images/web-maker-extension.png)
+
 =======
 
 ### v14. uBlock Origin: 
@@ -274,7 +275,7 @@ an efficient blocker. Easy on CPU and memory.
 #### <em>Availability</em>
 uBlock Origin is available for download on [chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) and [mozilla](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
-![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/ublock-origin.png)
+![Here is how the extension looks](/images/ublock-origin.png)
 
 ### 15. Lighthouse: 
 It is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. it runs a series of audits against the page, and then it generates a report on how well the page did.
@@ -290,6 +291,7 @@ Choose the Lighthouse workflow that suits you best:
 - From a **[web UI](https://developers.google.com/web/tools/lighthouse#psi)** - Run Lighthouse and link to reports without installing a thing.
 
 ![Here is how the extension looks using chrome devtools](https://res.cloudinary.com/dsderm9xw/image/upload/v1600736555/Screenshot_2020-09-22_Lighthouse_Report_Viewer_mgxvrl.png)
+
 =======
 
 ### 16. Polypane: 
@@ -315,7 +317,7 @@ A standalone browser with all the tools you need to build responsive, accessible
 
 Polypane is available on Mac, Windows and Linux and is available here: [polypane.app](https://polypane.app)
 
-![Here is how it looks like in the browser](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/polypane.png)
+![Here is how the extension looks](/images/polypane.png)
 
 ### 17. Dark Theme For Chrome: 
 Dark Mode is an extension that helps you quickly turn the screen (browser) to dark at night time.
@@ -327,7 +329,7 @@ Dark Mode is an extension that helps you quickly turn the screen (browser) to da
 
 Dark Theme is available for downloads on [windows](https://chrome.google.com/webstore/detail/dark-mode/dmghijelimhndkbmpgbldicpogfkceaj?hl=en
 )
-![Here is how it looks in the browser](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/dark-theme.png)
+![Here is how the extension looks](/images/dark-theme.png)
 
 ### 18. Usersnap Extension: 
 This is a chrome extension that allows you capture your screen, collect user feedback, and track bugs reports on any website, prototype, or application.
