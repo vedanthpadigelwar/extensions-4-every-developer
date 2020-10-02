@@ -479,7 +479,7 @@ This is a chrome extension that helps develop accurate pixel perfect websites. I
 
 ![Here is how the extension looks](/images/cache.png)
 
-### Grammarly
+### 26. Grammarly
 Grammarly helps you eliminate writing errors and find the perfect words to express yourself. You’ll get suggestions from Grammarly as you write on the web.
 
 #### <em>Features</em>
