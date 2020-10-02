@@ -8,7 +8,7 @@ Please leave a star.
 
 To contribute, follow the [contributing guidelines](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/Contributing.md) and refer to the [snippet](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/Snippet.md)
 
-### 1. OctoTree: 
+### 1. OctoTree:
 This extension puts github on steriods. Gone are the days of ugly looking github repositories.
 
 #### <em>Features</em>
@@ -32,8 +32,8 @@ Octotree is available for download on [chrome](https://chrome.google.com/webstor
 
 ![Here is how the extension looks](/images/octotree-extension.png)
 
-### 2. Check My Links Extension: 
-This extension is a link checker that crawls through your webpage and looks for all things, links. 
+### 2. Check My Links Extension:
+This extension is a link checker that crawls through your webpage and looks for all things, links.
 Broken links, valid links, redirecting links, we got you covered.
 
 #### <em>Features</em>
@@ -48,7 +48,7 @@ Check My Links is available for download on [chrome](https://chrome.google.com/w
 
 ![Here is how the extension looks](/images/check-my-links-extension.png)
 
-### 3. Windows Resizer: 
+### 3. Windows Resizer:
 This extension re-sizes the browser's window in order to emulate various resolutions.
 
 #### <em>Features</em>
@@ -65,7 +65,7 @@ Windows resizer is available for download on [chrome](https://chrome.google.com/
 
 ![Here is how the extension looks](/images/windows-resizer-extension.png)
 
-### 4. Color By Fardos: 
+### 4. Color By Fardos:
 This extension allows you pick colors from websites, save colors & gradients, get matching shades and tints and create beautiful gradients.
 
 #### <em>Features</em>
@@ -83,7 +83,7 @@ Color By Fardos is available for download on [chrome](https://chrome.google.com/
 
 ![Here is how the extension looks](/images/colorbyfardos-extension.png)
 
-### 5. Css Viewer: 
+### 5. Css Viewer:
 This extension is a simple Css property viewer. Hover over any element and get all the css properties attached to it
 
 #### <em>Features</em>
@@ -96,7 +96,7 @@ Css viewer is an available for download on [chrome](https://chrome.google.com/we
 
 ![Here is how the extension looks](/images/css-viewer-extension.png)
 
-### 6. Pesticide: 
+### 6. Pesticide:
 This extension outlines every element on a page thereby allowing the user see a better placement on the page.
 
 #### <em>Features</em>
@@ -111,7 +111,7 @@ Pesticide is available for download on [chrome](https://chrome.google.com/websto
 
 ![Here is how the extension looks](/images/pesticide-extension.png)
 
-### 7. Wappalyzer: 
+### 7. Wappalyzer:
 This extension is a technology profiler that shows you what websites and web applications ae built with.
 
 #### <em>Features</em>
@@ -126,7 +126,7 @@ Wappalyzer is available for download on [chrome](https://chrome.google.com/webst
 
 ![Here is how the extension looks](/images/wappalyzer-extension.png)
 
-### 8. Screencastify: 
+### 8. Screencastify:
 This extension helps to capture, edit and share videos in seconds.
 
 #### <em>Features</em>
@@ -159,7 +159,7 @@ Screencastify is available for download on [chrome](https://chrome.google.com/we
 
 ![Here is how the extension looks](/images/screencastify-extension.png)
 
-### 9. Web Developer Checklist: 
+### 9. Web Developer Checklist:
 This extension helps developers by providing a yardstick to test if they have followed best practices
 
 #### <em>Features</em>
@@ -175,7 +175,7 @@ Web Developer checklist is available for download on [chrome](https://chrome.goo
 
 ![Here is how the extension looks](/images/webdeveloper-checklist-extension.png)
 
-### 10. What font: 
+### 10. What font:
 This extension makes it ridiculously easy to identify fonts used in a website.
 
 #### <em>Features</em>
@@ -191,7 +191,7 @@ This extension makes it ridiculously easy to identify fonts used in a website.
 
 ![Here is how the extension looks](/images/whatfont-extension.png)
 
-### 11. Web Developer: 
+### 11. Web Developer:
 What a weird name for an extension. What it does is far from weird, though. This extension adds a toolbar button to the browser with various web developer tools.
 
 #### <em>Features</em>
@@ -206,7 +206,7 @@ Web developer is available for download on [chrome](https://chrome.google.com/we
 
 ![Here is how the extension looks](/images/web-developer-extension-2.png)
 
-### 12. Microsoft Teams Bot: 
+### 12. Microsoft Teams Bot:
 It's a bot which can attend your online classes/meetings on Microsoft Teams.
 
 #### <em>Features</em>
@@ -231,7 +231,7 @@ Microsoft Teams Bot is available for download on [chrome](https://chrome.google.
 
 ![Here is how the extension looks](/images/microsoft-teams-bot.png)
 
-### 13. Web Maker: 
+### 13. Web Maker:
 Blazing fast & offline playground for your web experiments.
 
 #### <em>Features</em>
@@ -260,7 +260,7 @@ Web Maker is available for download on [chrome](https://chrome.google.com/websto
 
 # ![Here is how the extension looks](https://github.com/HikwaMehluli/extensions-4-every-developer/blob/add-webmaker-hikwamehluli/web-maker-extension.png)
 
-### 14. uBlock Origin: 
+### 14. uBlock Origin:
 an efficient blocker. Easy on CPU and memory.
 
 #### <em>Features</em>
@@ -276,7 +276,7 @@ uBlock Origin is available for download on [chrome](https://chrome.google.com/we
 
 ![Here is how the extension looks](/images/ublock-origin.png)
 
-### 15. Lighthouse: 
+### 15. Lighthouse:
 It is an open-source, automated tool for improving the quality of web pages. You can run it against any web page, public or requiring authentication. it runs a series of audits against the page, and then it generates a report on how well the page did.
 
 #### <em>Features</em>
@@ -295,7 +295,7 @@ Choose the Lighthouse workflow that suits you best:
 
 # ![Here is how the extension looks using chrome devtools](https://res.cloudinary.com/dsderm9xw/image/upload/v1600736555/Screenshot_2020-09-22_Lighthouse_Report_Viewer_mgxvrl.png)
 
-### 16. Polypane: 
+### 16. Polypane:
 A standalone browser with all the tools you need to build responsive, accessible and performant sites five times faster.
 
 #### <em>Features</em>
@@ -320,7 +320,7 @@ Polypane is available on Mac, Windows and Linux and is available here: [polypane
 
 ![Here is how the extension looks](/images/polypane.png)
 
-### 17. Dark Theme For Chrome: 
+### 17. Dark Theme For Chrome:
 Dark Mode is an extension that helps you quickly turn the screen (browser) to dark at night time.
 
 ### <em>Features</em>
@@ -350,7 +350,7 @@ Prodeus is available for download on [chrome](https://chrome.google.com/webstore
 
 ![Here is how the extension looks](images/prodeus-extention.png)
 
-### 19. Usersnap Extension: 
+### 19. Usersnap Extension:
 This is a chrome extension that allows you capture your screen, collect user feedback, and track bugs reports on any website, prototype, or application.
 
 #### <em>Features</em>
@@ -362,19 +362,19 @@ This is a chrome extension that allows you capture your screen, collect user fee
 
 - Console Log Errors: client-side javascript errors are captured with the screenshot. Minimize your time troubleshooting.
 
-- Metadata Analyzed: Usersnap automatically includes the environment data to the tickets. URL, browser info, screen size, time, and location are some examples. 
+- Metadata Analyzed: Usersnap automatically includes the environment data to the tickets. URL, browser info, screen size, time, and location are some examples.
 
 ### <em>Availability</em>
 Usersnapshot is available for download on [chrome](https://chrome.google.com/webstore/detail/usersnap-capture-visual-f/khehmhbaabkepkojebhcpjifcmojdmgd?hl=en)
 
 ![Here is how the extension looks](https://github.com/KarenEfereyan/extensions-4-every-developer/blob/master/images/usersnap.png)
 
-### 20. Lorem Ipsum Generator Extension: 
+### 20. Lorem Ipsum Generator Extension:
 This extension provides an elegant and quick way to create default text or generate Lorem Ipsum. Optimized for quick usage, but it can customized.
 
 #### <em>Features</em>
 - Quickly delivers default text to complement your amazing design
-- Easily customizable 
+- Easily customizable
 - Each sentence is randomly generated to simulate real text.
 #### <em>Availability</em>
 Lorem ipsum generator is available for download on [chrome](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb/related?hl=en)
@@ -403,32 +403,32 @@ The name explains the extension. It is automatically executed if a request to a 
 
 ### 22. Session Buddy - Tab Management Extension
 This is a chrome extension that allows developers to manage all open tabs in one place. It help users to easily restore open tabs whenever the chrome browser crashes.
-    
+
 #### <em>Features</em>
 - Save open tabs as collections that can be easily restored later which helps to free up memory
-    
+
 - See and manage all open tabs in one place.
-    
+
 - Recover your open tabs after a crash.
-    
+
 - Search open tabs and collections to quickly find what you're looking for.
-    
+
 #### <em>Availability</em>
 - Session Buddy is available for download on [chrome](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
-    
+
 ![Here is how the extension looks](/images/session-buddy.png)
 
 
 ### 23. Pixel Perfect - Pixel Perfect Accuracy Extension
 This is a chrome extension that helps develop accurate pixel perfect websites. It allows developers and designers to put a semi-transparent image over the top of the developed website as an overlay and make a pixel perfect comparison between them.
-    
+
 #### <em>Features</em>
 - Multiple overlay support
-    
+
 - Separate overlays for each website
-    
+
 - Overlays are saved between browsing sessions
-    
+
 - Drag and drop file upload support
 
 - Easy to use UI
@@ -441,16 +441,16 @@ This is a chrome extension that helps develop accurate pixel perfect websites. I
 - Double-click on header to expand/collapse main window
 
 - Use Shift + arrow keys for 10px position change
-    
+
 #### <em>Availability</em>
 - Pixel Perfect is available for download on [chrome](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
-    
+
 ![Here is how the extension looks](/images/pixel-perfect-extension.png)
 
 
 ### 24. ColorZilla Extension
 -  With ColorZilla you can get a color reading from any point in your browser, quickly adjust this color and paste it into another program. And it can do so much more....
-    
+
 #### <em>Features</em>
 - Eyedropper - get the color of any pixel on the page
 - Advanced Color Picker (similar to Photoshop's)
@@ -459,7 +459,7 @@ This is a chrome extension that helps develop accurate pixel perfect websites. I
 - Palette Viewer with 7 pre-installed palettes
 - Color History of recently picked colors
 - Displays element information like tag name, class, id, size etc
-    
+
 #### <em>Availability</em>
 - Colorzilla is available for download on [chrome](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
 
@@ -469,7 +469,7 @@ This is a chrome extension that helps develop accurate pixel perfect websites. I
 
 ### 25. Clear Cache
 -  This is a chrome extension that allows developers clear your cache and browsing data with a single click of a button.
-    
+
 #### <em>Features</em>
 - You can customize what and how much of your data you want to clear on the options page, including: App Cache, Cache, Cookies, Downloads, File Systems, Form Data, History, Indexed DB, Local Storage, Plugin Data, Passwords and WebSQL.
 - Cookies can either be removed globally, only for certain domains or for everything except for certain domains.
@@ -479,4 +479,20 @@ This is a chrome extension that helps develop accurate pixel perfect websites. I
 
 ![Here is how the extension looks](/images/cache.png)
 
+### Grammarly
+Grammarly helps you eliminate writing errors and find the perfect words to express yourself. You’ll get suggestions from Grammarly as you write on the web.
 
+#### <em>Features</em>
+- Contextual spelling checker.
+- Grammar checker and suggestions.
+- corrects critical spelling and grammar errors.
+- Checks and eliminates plagiarism.
+
+#### Tips
+  If you own a blog or write about your dev projects/tutorials, grammarly helps out with grammar errors you may have missed including tips to improve phrases and sentences.
+
+#### <em>Availiabilty</em>
+
+Grammarly is available for download on [chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) and [mozilla](https://addons.mozilla.org/en-US/firefox/addon/grammarly-1/)
+
+![Here is how the extension looks](/images/grammarly.png)
