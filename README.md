@@ -511,3 +511,18 @@ OneTab Saves All Your Tabs Into a Shareable List.
 OneTab is available for download on [chrome](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) and [mozilla](https://addons.mozilla.org/en-US/firefox/addon/onetab/)
 
 ![Here is how the extension looks](/images/onetab.png)
+
+
+### FireShot
+Capture pages fully and entirely. Create PDF files from web pages. Instant screenshots are stored locally, and produce no traffic. FireShot can work offline. You can either take full snapshots or select what part of the screen you want to snap.
+
+#### <em>Features</em>
+- Save screenshot to disk as PDF (with links), PNG, and JPEG.
+- Capture only visible part of the web page or just a selection.
+- Send to Gmail.
+- Copy to clipboard.
+
+#### <em>Availiabilty</em>
+Fireshot is available for download on [chrome](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg) and [mozilla](https://addons.mozilla.org/en-US/firefox/addon/fireshot/)
+
+![Here is how the extension looks](/images/fireshot.png)
