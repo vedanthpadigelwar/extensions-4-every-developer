@@ -526,3 +526,17 @@ Capture pages fully and entirely. Create PDF files from web pages. Instant scree
 Fireshot is available for download on [chrome](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg) and [mozilla](https://addons.mozilla.org/en-US/firefox/addon/fireshot/)
 
 ![Here is how the extension looks](/images/fireshot.png)
+
+### Ghostery:
+
+Ghostery is a great Chrome extension which detects trackers, pixels, and any other embedded snippet on a website.
+
+#### <em>Features</em>
+- You can immediately see which plugins and trackers are installed on the web page you've visited.
+- Lets you protect your privacy.
+- There's no registration or sign-up required to use this chrome extension.
+
+#### <em>Availability</em>
+- Chrome Web Store: [Ghostery](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
+
+![Here is how the extension looks](images/ghostery-1.png)
