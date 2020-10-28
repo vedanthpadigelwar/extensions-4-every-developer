@@ -540,3 +540,17 @@ Ghostery is a great Chrome extension which detects trackers, pixels, and any oth
 - Chrome Web Store: [Ghostery](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
 
 ![Here is how the extension looks](images/ghostery-1.png)
+
+### 28. Prettier - VScode Extension
+Prettier  formats all your code in a standard way. 
+
+#### <em>Features</em>
+- Spacing
+- Line wrappings
+- Consistent quotes
+
+#### <em>Availiabilty</em>
+
+Prettier is available for download on [chrome](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) and [mozilla](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+![Here is how the extension looks](/images/prettier-previe.png)
