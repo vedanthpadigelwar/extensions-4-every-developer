@@ -554,3 +554,18 @@ Prettier  formats all your code in a standard way.
 Prettier is available for download on [chrome](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) and [mozilla](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ![Here is how the extension looks](/images/prettier-previe.png)
+
+### 29. Visual Inspector - Chrome Extension
+Prettier  formats all your code in a standard way. 
+
+#### <em>Features</em>
+- Inspect and Change all design properties in web page like position, opacity, colors, gradient, typography etc.
+- Edit website text inline without coding.
+- Download changes as CSS / PNG and share it with other stakeholders.
+- Get fonts, colors and assets from website in one click.
+
+#### <em>Availiabilty</em>
+
+Visual Inspector is available for download on [chrome](https://chrome.google.com/webstore/detail/visual-inspector/efaejpgmekdkcngpbghnpcmbpbngoclc)
+
+![Here is how the extension looks](/images/visual-inspector.png)
