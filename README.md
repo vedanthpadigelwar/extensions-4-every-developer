@@ -569,3 +569,22 @@ Prettier  formats all your code in a standard way.
 Visual Inspector is available for download on [chrome](https://chrome.google.com/webstore/detail/visual-inspector/efaejpgmekdkcngpbghnpcmbpbngoclc)
 
 ![Here is how the extension looks](/images/visual-inspector.png)
+
+
+### 30. Grid Ruler - Chrome Extension
+Create grids and measure their distance easily.
+
+#### <em>Features</em>
+- It allow you to creates vertical and horizontal grids, Photoshop style.
+- It has a ruler to measure distance between your grids too.
+
+#### <em>How to use</em>
+- drag from main vertical/horizontal ruler to create grids.
+- click on intersection of vertical ruler and horizontal ruler to go into ruler mode.
+- while in ruler mode, hold "Shift" key to get a straight line.
+
+#### <em>Availiabilty</em>
+
+Grid Ruler is available for download on [chrome](https://chrome.google.com/webstore/detail/grid-ruler/joadogiaiabhmggdifljlpkclnpfncmj)
+
+![Here is how the extension looks](/images/grid-ruler.png)
