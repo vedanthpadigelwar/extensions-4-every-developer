@@ -600,7 +600,7 @@ Snipping Tool is a Microsoft Windows screenshot utility included in Windows Vist
 
 #### <em>Availiabilty</em>
 
-Snipping Tool is available on Microsoft Windows
+Snipping Tool is available on Microsoft Windows [Windows](https://support.microsoft.com/en-us/windows/open-snipping-tool-and-take-a-screenshot-a35ac9ff-4a58-24c9-3253-f12bac9f9d44#:~:text=To%20open%20the%20Snipping%20Tool,Snip%2C%20and%20then%20press%20Enter.)
 
 ![Here is how the extension looks](/images/Snipping-Tool.png)
 
