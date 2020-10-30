@@ -613,6 +613,7 @@ A simple extension that allows you to schedule online video meetings.
 -  It use by developer for collaboration.
 -  Record meeting by any member.
 -  Conference video call.
+-  It is use for both audio and video call
 
 
 #### <em>Availiabilty</em>
