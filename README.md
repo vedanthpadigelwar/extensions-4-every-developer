@@ -589,8 +589,7 @@ Grid Ruler is available for download on [chrome](https://chrome.google.com/webst
 
 ![Here is how the extension looks](/images/grid-ruler.png)
 
-
-### 31. Snipping Tool:
+### 31. Snipping Tool - Windows Extension
 Snipping Tool is a Microsoft Windows screenshot utility included in Windows Vista and later. It can take still screenshots of an open window, rectangular areas, a free-form area, or the entire screen. Snips can then be annotated using a mouse or a tablet, stored as an image file or an MHTML file, or e-mailed.
 
 #### <em>Features</em>
