@@ -603,20 +603,3 @@ Snipping Tool is a Microsoft Windows screenshot utility included in Windows Vist
 Snipping Tool is available on Microsoft Windows
 
 ![Here is how the extension looks](/images/Snipping-Tool.png)
-
-
-### 31. Jitsi Meeting - Web Extension
-A simple extension that allows you to schedule online video meetings.
-
-#### <em>Features</em>
-
--  It use by developer for collaboration.
--  Record meeting by any member.
--  Conference video call.
-
-
-#### <em>Availiabilty</em>
-
-Jitsi is available on web and mobile application. it can be download [chrome](https://chrome.google.com/webstore/detail/jitsi-meetings/kglhbbefdnlheedjiejgomgmfplipfeb)
-
-![Here is how the extension looks](/images/jitsi.PNG)
