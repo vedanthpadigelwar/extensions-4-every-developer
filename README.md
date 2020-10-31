@@ -622,3 +622,23 @@ A simple extension that allows you to schedule online video meetings.
 Jitsi is available on web and mobile application. it can be download [chrome](https://chrome.google.com/webstore/detail/jitsi-meetings/kglhbbefdnlheedjiejgomgmfplipfeb)
 
 ![Here is how the extension looks](/images/jitsi.PNG)
+
+
+### 33. React Developer Tools - Browser Extension
+React Developer Tools is a browser extension for the open-source React JavaScript library. It allows you to inspect the React component hierarchies in the Chrome Developer Tools.
+
+#### <em>Features</em>
+- It allows you tell if a web app was build with React
+- It allows you check if it's a development build or production build
+- Allows you check components and props used.
+
+#### <em>How to use</em>
+- You will get two new tabs in your Chrome DevTools: "⚛️ Components" and "⚛️ Profiler".
+- The Components tab shows you the root React components that were rendered on the page, as well as the subcomponents that they ended up rendering.
+- The Profiler tab allows you to record performance information.
+
+#### <em>Availiabilty</em>
+
+React devtools is available for download on [chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi), and on [firefox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools)
+
+![Here is how the extension looks](/images/react-devtools.png)
