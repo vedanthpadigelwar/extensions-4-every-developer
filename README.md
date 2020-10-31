@@ -569,3 +569,56 @@ Prettier  formats all your code in a standard way.
 Visual Inspector is available for download on [chrome](https://chrome.google.com/webstore/detail/visual-inspector/efaejpgmekdkcngpbghnpcmbpbngoclc)
 
 ![Here is how the extension looks](/images/visual-inspector.png)
+
+
+### 30. Grid Ruler - Chrome Extension
+Create grids and measure their distance easily.
+
+#### <em>Features</em>
+- It allow you to creates vertical and horizontal grids, Photoshop style.
+- It has a ruler to measure distance between your grids too.
+
+#### <em>How to use</em>
+- drag from main vertical/horizontal ruler to create grids.
+- click on intersection of vertical ruler and horizontal ruler to go into ruler mode.
+- while in ruler mode, hold "Shift" key to get a straight line.
+
+#### <em>Availiabilty</em>
+
+Grid Ruler is available for download on [chrome](https://chrome.google.com/webstore/detail/grid-ruler/joadogiaiabhmggdifljlpkclnpfncmj)
+
+![Here is how the extension looks](/images/grid-ruler.png)
+
+### 31. Snipping Tool - Windows Extension
+Snipping Tool is a Microsoft Windows screenshot utility included in Windows Vista and later. It can take still screenshots of an open window, rectangular areas, a free-form area, or the entire screen. Snips can then be annotated using a mouse or a tablet, stored as an image file or an MHTML file, or e-mailed.
+
+#### <em>Features</em>
+
+-  Windows screenshot
+-  Capture Video
+
+
+#### <em>Availiabilty</em>
+
+
+Snipping Tool is available on Microsoft Windows [Windows](https://support.microsoft.com/en-us/windows/open-snipping-tool-and-take-a-screenshot-a35ac9ff-4a58-24c9-3253-f12bac9f9d44#:~:text=To%20open%20the%20Snipping%20Tool,Snip%2C%20and%20then%20press%20Enter.)
+
+![Here is how the extension looks](/images/Snipping-Tool.png)
+
+
+### 32. Jitsi Meeting - Web Extension
+A simple extension that allows you to schedule online video meetings.
+
+#### <em>Features</em>
+
+-  It use by developer for collaboration.
+-  Record meeting by any member.
+-  Conference video call.
+-  It is use for both audio and video call
+
+
+#### <em>Availiabilty</em>
+
+Jitsi is available on web and mobile application. it can be download [chrome](https://chrome.google.com/webstore/detail/jitsi-meetings/kglhbbefdnlheedjiejgomgmfplipfeb)
+
+![Here is how the extension looks](/images/jitsi.PNG)
