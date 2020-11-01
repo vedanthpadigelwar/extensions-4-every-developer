@@ -642,3 +642,22 @@ React Developer Tools is a browser extension for the open-source React JavaScrip
 React devtools is available for download on [chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi), and on [firefox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools)
 
 ![Here is how the extension looks](/images/react-devtools.png)
+
+
+### 34. Redux Developer Tools - Browser Extension
+The extension provides power-ups for your Redux development workflow. Apart from Redux, it can be used with any other architectures which handle the state.
+
+#### <em>Features</em>
+- It allows you monitor actions and states of your application.
+- It has the feature of playing and pausing to see how actions are triggered and how the states changes
+- It's an opensource project. See the [official repository](https://github.com/zalmoxisus/redux-devtools-extension) for more details.
+
+#### <em>How to use</em>
+- You will get a new tab in your Chrome DevTools: "redux".
+- It will show the action triggered and tabs to observe actions, states and differences
+
+#### <em>Availiabilty</em>
+
+Redux devtools is available for download on [chrome](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd), and on [firefox](https://addons.mozilla.org/en-US/firefox/addon/reduxdevtools)
+
+![Here is how the extension looks](/images/redux-devtools.png)
