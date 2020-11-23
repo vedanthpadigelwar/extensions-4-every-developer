@@ -661,3 +661,27 @@ The extension provides power-ups for your Redux development workflow. Apart from
 Redux devtools is available for download on [chrome](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd), and on [firefox](https://addons.mozilla.org/en-US/firefox/addon/reduxdevtools)
 
 ![Here is how the extension looks](/images/redux-devtools.png)
+
+
+### 35. Camel Case Navigation - Visual Studio Code Extension
+Camel Case Navigation extension provides Camel Case cursor navigation for the Visual Studio Code editor. It makes navigating between Camel-Cased words easy. Ever wrote a variable like `getStudentName` and you wanted to navigate in between `get`, `Student`, and `Name` ? This extension is for you!
+.
+
+#### <em>Features</em>
+- It allows you switch between camel cased function names and variables.
+- It's an opensource project. See the [official repository](https://github.com/maptz/Maptz.VSCode.Extensions.CamelCaseNavigation) for more details.
+
+#### <em>How to use</em>
+- MoveCamelLeftCommand (Ctrl+Left)
+- MoveCamelRightCommand (Ctrl+Right)
+- ExtendCamelLeftCommand (Ctrl+Shift+Left)
+- ExtendCamelRightCommand (Ctrl+Shift+Right)
+
+#### <em>Availiabilty</em>
+You can install the latest version of the extension is available on the Visual Studio Marketplace [here](https://marketplace.visualstudio.com/items?itemName=maptz.camelcasenavigation).
+
+Alternatively, open Visual Studio code, press Ctrl+P and type:
+
+```ext install camelcasenavigation```
+
+![Here is how the extension looks](/images/camelCaseDemo.gif)
