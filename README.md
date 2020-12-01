@@ -685,3 +685,20 @@ Alternatively, open Visual Studio code, press Ctrl+P and type:
 ```ext install camelcasenavigation```
 
 ![Here is how the extension looks](/images/camelCaseDemo.gif)
+
+
+### 36. Bracket Pair Colorizer - Visual Studio Code Extension
+As clear by the name of extension, this allows you to match the brackets in your code having different color for each pair. This extensions support user define colors and characters matching. 
+
+- By default ```(), {}, []``` are matched, user can also define custom brackets. 
+- Colors list can be modified. 
+.
+
+#### <em>How to use</em>
+- It will automatically detect the brackets in your code once installed and activated.
+
+#### <em>Availiabilty</em>
+You can install the latest version of the extension is available on the Visual Studio Marketplace [here](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer).
+
+![Here is how the extension looks](/images/bracket-pair-colorizer.png)
+
