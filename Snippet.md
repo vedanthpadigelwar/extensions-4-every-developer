@@ -10,4 +10,4 @@ A short and crisp one-liner of what the extension does.
 Extension is available for download on [chrome]() and [mozilla]()
 
 <!--Replace the () with the corresponding Image URL-->
-![Here is how the extension looks]()
+![Here is how the extension looks](/images/placeholder.png)
