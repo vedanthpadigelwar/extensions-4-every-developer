@@ -702,3 +702,24 @@ You can install the latest version of the extension is available on the Visual S
 
 ![Here is how the extension looks](/images/bracket-pair-colorizer.png)
 
+### 37. Fake Filler - Browser Extension
+Fake Filler is THE form filler to fill all input fields on a page with randomly generated fake data. This productivity boosting extension is a must for developers and testers who work with forms as it eliminates the need for manually entering values in fields.
+ 
+
+- Fill all inputs with randomly generated names, emails, phone numbers, etc
+- Sensible defaults to allow you to start using the extension without any configuration 
+- Powerful customization using custom fields
+- Ignores CAPTCHA, hidden, disabled and readonly fields.
+
+[![Official Youtube Demo](http://img.youtube.com/vi/fSRJzrvB3gQ/0.jpg)](http://www.youtube.com/watch?v=fSRJzrvB3gQ "Fake Filler Demo")
+
+#### [Official Website](https://fakefiller.com/)
+
+#### Supported Browsers (Version >= 60)
+- [Google Chrome](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo)
+- [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/fake-filler/)
+- [Edge](https://microsoftedge.microsoft.com/addons/detail/fake-filler/bdcjobafgkjgckiikonbfcdocnhnaaii)
+
+#### <em>How to use</em>
+- [Install](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo?hl=en)
+- ![Preview](/images/fakefillerdemo.gif)
