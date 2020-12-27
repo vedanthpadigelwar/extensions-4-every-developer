@@ -15,8 +15,8 @@ To contribute, follow the following guidelines,
 8. Have an image ready which shows how the extension looks when in use and add it in using a link. The link text should be 'Here is how the extension looks'. All images should go into the Images folder.
 9. If you are using Visual Studio Code IDE, preview your changes and ensure it looks good
 10. ```git status``` to check the new changes
-11. ```git add 'ReadMe.md' ``` which is the file that was updated
-12.``` git pull origin master``` to get all the new updates from the main repo. This ensures there are no merge conflicts
+11. ```git add 'ReadMe.md' ``` which is the file that was updated and; ```git add images/[ScreenShot]``` which is the screenshot of the extension you are adding ( ```git add .``` gets this done easily, though).
+12. ```git pull origin master``` to get all the new updates from the main repo. This ensures there are no merge conflicts
 13. ```git commit -s -m "add name of extension" ```. The -s is the sign off flag and is extremely important. Please take note of it
 14. ```git push origin name-of-your-branch``` 
 15. Refresh your forked copy of the repo and you should automatically see your changes reflected
@@ -26,4 +26,4 @@ original repo.
 
 #### Thanks ! You've added one more helpful extension to the repo
 
-Do you have more ideas on how to make the project even better, send me a <a target= "_blank" href="mailto:thedevkaren@gmail.com">message</a>
+Do you have more ideas on how to make the project even better? send me a <a target= "_blank" href="mailto:thedevkaren@gmail.com">message</a>
